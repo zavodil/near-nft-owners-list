@@ -1,0 +1,14 @@
+{
+	"name": "near-nft-owners",
+	"type": "module",
+	"version": "0.1.0",
+	"license": "MIT",
+	"scripts": {
+		"start": "node nft"
+	},
+	"devDependencies": {
+	},
+	"dependencies": {
+		"near-api-js": "^0.44.2"
+	}
+}
