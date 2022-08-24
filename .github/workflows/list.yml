@@ -1,0 +1,25 @@
+name: FNFT Owners Updater
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '* /1 * * *'
+
+jobs:
+  updateStats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Prepare        
+        uses: actions/setup-node@v3
+        with:
+            node-version: 16
+      - run: npm i      
+      - name: NFT Owners list
+        run: node nft > owners.json              
+        env:
+          EXPORT_MODE: CS
+      - uses: EndBug/add-and-commit@v9 
+        with: 
+          author_name: "NFT Owners Updater"
+          add: 'owners.json --force'
+          message: "NFT Owners fetching"
