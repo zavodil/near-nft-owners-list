@@ -1,4 +1,4 @@
-name: Run Indexed Query and Save Output
+name: Run PostgreSQL Query and Save Output
 
 on:
   workflow_dispatch:
@@ -9,24 +9,31 @@ jobs:
   run-query-and-save:
     runs-on: ubuntu-latest
 
+    services:
+      postgres:
+        image: postgres:latest
+        env:
+          POSTGRES_USER: public_readonly
+          POSTGRES_PASSWORD: 'nearprotocol'
+        ports:
+          - 5432:5432
+        options: --health-cmd pg_isready --health-interval 10s --health-timeout 5s --health-retries 5
+
     steps:
       - name: Set up PostgreSQL
-        uses: postgres-actions/setup-postgres@v2
-        with:
-          postgres-version: '13'  # Change to your PostgreSQL version
-          postgres-password: 'nearprotocol'
-          postgres-port: 5432
+        # PostgreSQL service setup is already defined in "services"
 
-      - name: Run Query
+      - name: Run Query and Save Output
+        id: query
         run: |
-          output=$(psql -h  mainnet.db.explorer.indexer.near.dev -U public_readonly -d mainnet_explorer -c "WITH votes as (SELECT receipt_predecessor_account_id as user,  (args->>'args_json')::json->>'candidate' as candidate, MIN(to_timestamp( receipt_included_in_block_timestamp / 1000000000 )) as time FROM action_receipt_actions WHERE receipt_receiver_account_id = 'nominations.ndc-gwg.near' AND action_kind = 'FUNCTION_CALL' AND args ->> 'method_name' = 'upvote' AND (args->>'args_json')::json->>'candidate' = 'vadim.near' GROUP BY receipt_predecessor_account_id, candidate) SELECT * FROM votes ORDER BY time DESC;")
-          echo "::set-output name=query_output::$output"
-          
-      - name: Save Output to JSON file
-        run: echo "${{ steps.query.outputs.query_output }}" > output.json
-  
+          psql -h mainnet.db.explorer.indexer.near.dev -U postgres -d mainnet_explorer -tAc "WITH votes as (SELECT receipt_predecessor_account_id as user,  (args->>'args_json')::json->>'candidate' as candidate, MIN(to_timestamp( receipt_included_in_block_timestamp / 1000000000 )) as time FROM action_receipt_actions WHERE receipt_receiver_account_id = 'nominations.ndc-gwg.near' AND action_kind = 'FUNCTION_CALL' AND args ->> 'method_name' = 'upvote' AND (args->>'args_json')::json->>'candidate' = 'vadim.near' GROUP BY receipt_predecessor_account_id, candidate) SELECT * FROM votes ORDER BY time DESC;"
+          > output.json
+        shell: bash
+
       - name: Upload JSON file as artifact
         uses: actions/upload-artifact@v2
         with:
           name: query-output
           path: output.json
+
+          
