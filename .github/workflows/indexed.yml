@@ -9,6 +9,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v3
+      
+      - name: Prepare        
+        uses: actions/setup-node@v3
+        with:
+            node-version: 16
+      - run: npm i  
+      
       - name: Run Query and Save Output
         env:
             PGPASSWORD: 'nearprotocol'
