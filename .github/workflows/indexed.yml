@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  '* */1 * * *'
-
 jobs:
   run-query-and-save:
     runs-on: ubuntu-latest
@@ -15,7 +14,7 @@ jobs:
             PGPASSWORD: 'nearprotocol'
         id: query
         run: |
-          psql -h mainnet.db.explorer.indexer.near.dev -U postgres -d mainnet_explorer -tAc "WITH votes as (SELECT receipt_predecessor_account_id as user,  (args->>'args_json')::json->>'candidate' as candidate, MIN(to_timestamp( receipt_included_in_block_timestamp / 1000000000 )) as time FROM action_receipt_actions WHERE receipt_receiver_account_id = 'nominations.ndc-gwg.near' AND action_kind = 'FUNCTION_CALL' AND args ->> 'method_name' = 'upvote' AND (args->>'args_json')::json->>'candidate' = 'vadim.near' GROUP BY receipt_predecessor_account_id, candidate) SELECT * FROM votes ORDER BY time DESC;"
+          psql -h mainnet.db.explorer.indexer.near.dev -U public_readonly -d mainnet_explorer -tAc "WITH votes as (SELECT receipt_predecessor_account_id as user,  (args->>'args_json')::json->>'candidate' as candidate, MIN(to_timestamp( receipt_included_in_block_timestamp / 1000000000 )) as time FROM action_receipt_actions WHERE receipt_receiver_account_id = 'nominations.ndc-gwg.near' AND action_kind = 'FUNCTION_CALL' AND args ->> 'method_name' = 'upvote' AND (args->>'args_json')::json->>'candidate' = 'vadim.near' GROUP BY receipt_predecessor_account_id, candidate) SELECT * FROM votes ORDER BY time DESC;"
           > output.json
         shell: bash
 
