@@ -756,6 +756,12 @@ vlad.near|vadim.near|2023-08-22 21:31:01.392443+00
 vlad.near|vandal.near|2023-08-22 21:31:54.630142+00
 vlmoon.near|vadim.near|2023-08-22 11:46:31.172226+00
 vrajesh.near|cameron.near|2023-08-25 21:30:47.820938+00
+vrajesh.near|iamanansari.near|2023-08-25 21:35:37.578444+00
+vrajesh.near|johanga108.near|2023-08-25 21:34:00.314292+00
+vrajesh.near|maxkott.near|2023-08-25 21:32:16.4444+00
+vrajesh.near|techdir.near|2023-08-25 21:32:57.362167+00
+vrajesh.near|tolmindev.near|2023-08-25 21:34:38.995408+00
+vrajesh.near|whendacha.near|2023-08-25 21:31:38.426262+00
 vynnykv.near|kiskesis.near|2023-08-24 09:51:43.300686+00
 web3tune.near|crans.near|2023-08-10 17:08:45.147456+00
 web3tune.near|wizzow.near|2023-08-17 08:12:34.356733+00
