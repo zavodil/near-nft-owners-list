@@ -187,6 +187,7 @@ cwpuzzles.near|cryptois.near|2023-07-28 22:44:50.348982+00
 cwpuzzles.near|fritzwagner.near|2023-07-23 23:23:51.254556+00
 cwpuzzles.near|kwhyc.near|2023-07-28 21:59:57.615982+00
 cwpuzzles.near|maxkott.near|2023-08-15 20:24:08.149108+00
+cwpuzzles.near|pironi.near|2023-08-25 15:16:34.945502+00
 dabbie3229.near|chloe.near|2023-07-20 12:16:38.044828+00
 danbardeabd.near|mohaa.near|2023-08-19 19:31:51.123008+00
 davidweinstein.near|marieke.near|2023-08-21 23:39:37.645992+00
@@ -529,6 +530,8 @@ maxkott.near|techdir.near|2023-08-11 08:17:51.733314+00
 maxkott.near|tolmindev.near|2023-08-11 08:18:50.68912+00
 mido4bs.near|guaschingmachines.near|2023-08-23 08:37:09.554009+00
 mido4bs.near|wizzow.near|2023-08-23 08:39:24.101209+00
+mintlu.near|kwhyc.near|2023-08-25 15:21:19.955052+00
+mintlu.near|pironi.near|2023-08-25 15:19:58.454854+00
 mob.near|haenko.near|2023-08-18 00:20:10.407051+00
 mohaa.near|mohaa.near|2023-08-17 20:53:56.154737+00
 mohaa.near|whendacha.near|2023-08-25 05:05:12.51817+00
