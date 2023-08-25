@@ -375,6 +375,7 @@ jlw.near|atrox1382.near|2023-07-19 15:58:46.60055+00
 jlw.near|blaze.near|2023-08-08 21:50:16.010176+00
 jlw.near|chloe.near|2023-07-19 18:55:26.690856+00
 jlw.near|crans.near|2023-08-02 17:36:14.484592+00
+jlw.near|davletuner.near|2023-08-25 18:38:44.668945+00
 jlw.near|kangaroojack.near|2023-08-17 04:03:58.919539+00
 jlw.near|kriptoraptor.near|2023-07-26 01:33:57.791797+00
 jlw.near|luciotato.near|2023-08-22 01:11:56.663041+00
