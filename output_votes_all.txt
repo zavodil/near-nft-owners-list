@@ -105,6 +105,7 @@ bearmans.near|gagdiez.near|2023-08-14 15:31:49.679845+00
 bennyblanco.near|kangaroojack.near|2023-08-09 05:35:27.811741+00
 bennyblanco.near|kwhyc.near|2023-07-24 14:25:35.795518+00
 bennyblanco.near|odins_eyehole.near|2023-08-27 14:28:44.958668+00
+bhadboie.near|ndcplug.near|2023-08-27 23:11:20.541691+00
 bianca.near|chloe.near|2023-07-20 19:56:35.532309+00
 bianca.near|crans.near|2023-07-31 17:45:36.974693+00
 billybones.near|dleer.near|2023-08-26 04:25:00.872274+00
@@ -293,6 +294,7 @@ cwpuzzles.near|kwhyc.near|2023-07-28 21:59:57.615982+00
 cwpuzzles.near|louisliu.near|2023-08-26 01:37:44.794875+00
 cwpuzzles.near|marieke.near|2023-08-25 22:59:57.719825+00
 cwpuzzles.near|maxkott.near|2023-08-15 20:24:08.149108+00
+cwpuzzles.near|ndcplug.near|2023-08-27 23:12:05.891294+00
 cwpuzzles.near|odins_eyehole.near|2023-08-27 13:11:11.720859+00
 cwpuzzles.near|ogruss.near|2023-08-25 23:02:10.892349+00
 cwpuzzles.near|pironi.near|2023-08-25 15:16:34.945502+00
@@ -782,6 +784,7 @@ mido4bs.near|guaschingmachines.near|2023-08-23 08:37:09.554009+00
 mido4bs.near|wizzow.near|2023-08-23 08:39:24.101209+00
 miles1.near|kumarkrsronit.near|2023-08-27 18:57:05.655775+00
 miles1.near|ndcplug.near|2023-08-27 18:56:40.803452+00
+millyrodriguez.near|fritzwagner.near|2023-08-27 23:09:49.715775+00
 mintlu.near|chloe.near|2023-08-25 15:22:07.499129+00
 mintlu.near|crans.near|2023-08-25 15:29:11.725152+00
 mintlu.near|gagdiez.near|2023-08-25 15:26:53.104942+00
@@ -1070,6 +1073,7 @@ trendheo.near|lolson.near|2023-08-25 09:49:13.919422+00
 trendheo.near|maxkott.near|2023-08-15 07:59:23.829352+00
 trendheo.near|ogruss.near|2023-08-25 05:17:17.176651+00
 trendheo.near|vikash.near|2023-08-25 05:47:37.503708+00
+trophy001.near|achildhoodhero.near|2023-08-27 23:06:54.68571+00
 trophy001.near|ndcplug.near|2023-08-27 15:06:07.397871+00
 tusharkhowal.near|rahulgoel.near|2023-08-20 15:30:52.574709+00
 userdie.near|yonota.near|2023-08-26 08:55:03.968565+00
