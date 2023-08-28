@@ -1222,6 +1222,7 @@ whendacha.near|vadim.near|2023-08-22 12:19:03.317366+00
 whendacha.near|yonota.near|2023-08-23 21:22:11.036434+00
 wickedspidy.near|flame1.near|2023-08-01 18:37:39.519664+00
 willem.near|kwhyc.near|2023-08-18 14:18:52.411113+00
+windturne.near|web3hedge.near|2023-08-28 15:39:02.979633+00
 wizzow.near|blaze.near|2023-08-25 09:33:48.080778+00
 wizzow.near|chloe.near|2023-07-21 05:28:33.834709+00
 wizzow.near|crans.near|2023-07-26 13:38:12.741043+00
