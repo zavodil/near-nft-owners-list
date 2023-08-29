@@ -1265,6 +1265,7 @@ vikash.near|whendacha.near|2023-08-25 04:02:18.072014+00
 vishali.near|yashank.near|2023-08-25 07:32:58.947943+00
 vlad.near|blaze.near|2023-08-22 21:35:57.858598+00
 vlad.near|cameron.near|2023-08-25 22:37:28.599251+00
+vlad.near|chefsale.near|2023-08-29 00:02:44.224513+00
 vlad.near|chloe.near|2023-08-21 23:59:56.837272+00
 vlad.near|haenko.near|2023-08-21 23:57:55.051939+00
 vlad.near|kwhyc.near|2023-08-21 23:56:45.118268+00
@@ -1299,6 +1300,7 @@ web3hedge.near|pironi.near|2023-08-28 01:54:46.610331+00
 web3hedge.near|vlad.near|2023-08-28 01:20:22.17548+00
 web3tune.near|crans.near|2023-08-10 17:08:45.147456+00
 web3tune.near|wizzow.near|2023-08-17 08:12:34.356733+00
+whendacha.near|chloe.near|2023-08-29 00:15:37.142+00
 whendacha.near|dabbie3229.near|2023-08-22 12:18:02.576221+00
 whendacha.near|davletuner.near|2023-08-28 23:40:55.659694+00
 whendacha.near|dk_51.near|2023-08-25 01:30:19.951326+00
