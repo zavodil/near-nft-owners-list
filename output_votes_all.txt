@@ -945,6 +945,7 @@ ogruss.near|fritzwagner.near|2023-08-05 14:35:20.226718+00
 ogruss.near|guaschingmachines.near|2023-08-14 16:15:51.765614+00
 ogruss.near|kiskesis.near|2023-08-15 14:34:37.513228+00
 ogruss.near|nftmuse.near|2023-08-23 15:36:39.194359+00
+ogruss.near|ugxnear.near|2023-08-29 07:06:16.854149+00
 ogruss.near|vandal.near|2023-08-05 14:34:16.59907+00
 ogruss.near|wizzow.near|2023-08-21 15:32:32.369323+00
 oweszaid.near|dk_51.near|2023-08-28 17:55:33.098343+00
