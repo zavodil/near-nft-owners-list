@@ -221,6 +221,7 @@ calmxyz.near|dedeukwu.near|2023-08-10 13:59:03.896356+00
 calmxyz.near|dleer.near|2023-08-27 14:21:33.841072+00
 calmxyz.near|kennyj.near|2023-08-24 10:09:47.969314+00
 calmxyz.near|ndcplug.near|2023-08-27 14:26:20.587541+00
+calmxyz.near|odins_eyehole.near|2023-08-29 10:06:47.654756+00
 calmxyz.near|pironi.near|2023-08-24 10:09:25.593034+00
 calmxyz.near|vlad.near|2023-08-27 14:20:42.301798+00
 calta.near|mohaa.near|2023-08-19 18:51:47.488252+00
@@ -529,6 +530,7 @@ haenko.near|lolson.near|2023-08-25 09:44:54.920798+00
 haenko.near|maxkott.near|2023-08-20 14:25:00.853571+00
 haenko.near|mob.near|2023-08-28 19:13:30.985128+00
 haenko.near|moska.near|2023-08-25 09:46:35.425975+00
+haenko.near|rubycop.near|2023-08-29 10:06:31.18991+00
 haenko.near|techdir.near|2023-08-20 14:03:36.754156+00
 haenko.near|tolmindev.near|2023-08-20 14:06:08.116178+00
 haenko.near|vadim.near|2023-08-23 15:35:30.044829+00
