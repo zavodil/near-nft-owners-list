@@ -286,8 +286,10 @@ calmxyz.near|odins_eyehole.near|2023-08-29 10:06:47.654756+00
 calmxyz.near|pironi.near|2023-08-24 10:09:25.593034+00
 calmxyz.near|vlad.near|2023-08-27 14:20:42.301798+00
 calta.near|mohaa.near|2023-08-19 18:51:47.488252+00
+cameron.near|alan777.near|2023-08-30 15:38:16.746499+00
 cameron.near|mob.near|2023-08-29 00:50:27.070468+00
 cameron.near|vlad.near|2023-08-28 16:28:55.56673+00
+cameron.near|web3hedge.near|2023-08-30 15:36:19.689404+00
 cameron.near|yesn.near|2023-08-30 15:28:09.624178+00
 carolin.near|dedeukwu.near|2023-08-07 12:18:45.544922+00
 carolin.near|vandal.near|2023-08-07 12:14:14.575057+00
