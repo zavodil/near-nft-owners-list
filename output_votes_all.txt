@@ -100,7 +100,9 @@ alejandro.near|whendacha.near|2023-08-27 05:04:15.027806+00
 alexa_bliss.near|evangel.near|2023-08-30 08:50:00.19305+00
 alexa_bliss.near|harveys.near|2023-08-30 08:44:55.343522+00
 alexa_bliss.near|iamanansari.near|2023-08-30 08:48:52.981745+00
+alexa_bliss.near|izubair.near|2023-08-30 09:16:16.191874+00
 alexa_bliss.near|johanga108.near|2023-08-30 08:50:45.823162+00
+alexa_bliss.near|rahulgoel.near|2023-08-30 09:15:32.658416+00
 alexa_bliss.near|rubycop.near|2023-08-30 08:47:55.920019+00
 alexa_bliss.near|vadim.near|2023-08-30 08:45:27.360234+00
 alexa_bliss.near|vikash.near|2023-08-30 08:51:21.723801+00
@@ -231,6 +233,7 @@ blaze.near|web3hedge.near|2023-08-28 13:01:32.733952+00
 blaze.near|whendacha.near|2023-08-24 17:27:58.140738+00
 blaze.near|wizzow.near|2023-08-13 14:48:25.798604+00
 blaze.near|yashank.near|2023-08-12 20:47:25.63505+00
+blaze.near|yesn.near|2023-08-30 09:16:23.98723+00
 blckhntr.near|kriptoraptor.near|2023-07-20 18:16:22.298687+00
 blessedchidi.near|reespect.near|2023-08-23 19:23:52.296721+00
 boern.near|louisliu.near|2023-08-22 01:58:08.997585+00
