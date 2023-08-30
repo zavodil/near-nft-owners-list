@@ -295,7 +295,9 @@ clippy.near|marieke.near|2023-08-22 15:47:25.433946+00
 clippy.near|nftmuse.near|2023-08-24 09:25:31.750164+00
 cooperwestendarp.near|blaze.near|2023-08-26 17:23:14.276177+00
 cooperwestendarp.near|cameron.near|2023-08-27 00:14:34.483033+00
+cooperwestendarp.near|chefsale.near|2023-08-30 02:18:44.893919+00
 cooperwestendarp.near|marieke.near|2023-08-24 12:58:29.685672+00
+cooperwestendarp.near|pironi.near|2023-08-30 02:22:01.689881+00
 cooperwestendarp.near|vadim.near|2023-08-24 13:02:47.713633+00
 cooperwestendarp.near|vlad.near|2023-08-27 00:13:51.63488+00
 cotmusic.near|crans.near|2023-08-24 20:24:37.934494+00
