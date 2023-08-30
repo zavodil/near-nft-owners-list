@@ -758,9 +758,11 @@ jlw.near|ndcplug.near|2023-08-29 12:22:38.900891+00
 jlw.near|ogruss.near|2023-08-22 16:48:26.352896+00
 jlw.near|pironi.near|2023-08-23 20:39:45.300217+00
 jlw.near|rahulgoel.near|2023-08-08 21:56:11.413753+00
+jlw.near|robert.near|2023-08-30 21:22:53.337594+00
 jlw.near|rubycop.near|2023-08-29 12:20:42.898563+00
 jlw.near|vadim.near|2023-08-22 15:36:49.273655+00
 jlw.near|web3hedge.near|2023-08-29 12:12:27.469259+00
+jlw.near|yesn.near|2023-08-30 21:21:40.68042+00
 jmarkova.near|yonota.near|2023-08-25 13:15:16.692822+00
 joelroman.near|alphaflexhub.near|2023-08-28 07:23:19.439559+00
 joespano.near|achildhoodhero.near|2023-08-29 13:49:02.53818+00
@@ -1401,6 +1403,7 @@ satoshinakamotozz.near|vadim.near|2023-08-27 00:10:03.755565+00
 satoshinakamotozz.near|vikash.near|2023-08-27 00:13:06.946786+00
 satoshinakamotozz.near|whendacha.near|2023-08-27 00:08:39.129537+00
 satoshinakamotozz.near|yashank.near|2023-08-27 00:11:53.804852+00
+schonellrodrigooo.near|andersonr.near|2023-08-30 21:24:24.266688+00
 scottie.near|chloe.near|2023-07-20 11:55:22.437605+00
 scottie.near|kwhyc.near|2023-08-23 00:40:16.975002+00
 scottie.near|vadim.near|2023-08-22 20:01:29.035102+00
