@@ -426,6 +426,7 @@ cuongdcdev.near|vlad.near|2023-08-30 08:28:12.323181+00
 cuongdcdev.near|web3hedge.near|2023-08-30 09:56:48.869671+00
 curmello.near|chloe.near|2023-07-30 10:42:21.595268+00
 curmello.near|dabbie3229.near|2023-07-23 15:09:37.896394+00
+curtlee.near|nftmuse.near|2023-08-31 18:50:07.235778+00
 cwpuzzles.near|achildhoodhero.near|2023-08-25 22:58:56.312466+00
 cwpuzzles.near|blaze.near|2023-08-25 22:59:33.087087+00
 cwpuzzles.near|cameron.near|2023-08-25 22:56:42.251126+00
@@ -494,6 +495,7 @@ detextre4.near|kemo.near|2023-08-22 13:13:25.788185+00
 devbose.near|ndcplug.near|2023-08-28 06:03:32.655523+00
 devbose.near|odins_eyehole.near|2023-08-27 13:24:01.430172+00
 dfb9042333c1a81886bf1408535edacd0f0d455ff46c1976a96b96a98c1c7fda|kiskesis.near|2023-08-14 22:53:15.876778+00
+dffe04d94caa81973748ae0c0c71038c4ec0a336b81a0a6c765985502493d584|p3ter.near|2023-08-31 18:50:31.73194+00
 dgetsylver.near|kwhyc.near|2023-08-29 13:47:25.607405+00
 dixit.near|lolson.near|2023-08-28 15:29:00.974651+00
 dk_51.near|evangel.near|2023-08-26 12:56:50.519485+00
