@@ -64,6 +64,7 @@ ace17.near|crans.near|2023-08-25 12:34:13.862909+00
 achildhoodhero.near|cryptois.near|2023-08-03 18:07:57.889888+00
 achildhoodhero.near|dabbie3229.near|2023-08-28 19:39:42.139878+00
 achildhoodhero.near|earnestetim.near|2023-08-28 19:47:09.745763+00
+achildhoodhero.near|keyokey.near|2023-08-31 12:45:31.35176+00
 achildhoodhero.near|louisliu.near|2023-08-23 18:30:20.314927+00
 achildhoodhero.near|ogruss.near|2023-08-23 19:12:08.476174+00
 achildhoodhero.near|p3ter.near|2023-08-31 12:08:33.520694+00
@@ -828,6 +829,7 @@ johanga108.near|manutegus.near|2023-08-23 14:43:08.04855+00
 johanga108.near|maxkott.near|2023-08-10 21:00:11.697572+00
 johanga108.near|mob.near|2023-08-28 17:44:42.447753+00
 johanga108.near|moska.near|2023-08-25 11:50:17.936388+00
+johanga108.near|p3ter.near|2023-08-31 12:40:57.585818+00
 johanga108.near|planetaworld.near|2023-08-25 21:15:27.24386+00
 johanga108.near|rahulgoel.near|2023-08-27 18:01:36.967566+00
 johanga108.near|ramgor.near|2023-08-28 02:10:50.594299+00
@@ -1392,6 +1394,7 @@ rubycop.near|eschnoeckel.near|2023-08-31 12:37:42.943876+00
 rubycop.near|jlw.near|2023-07-19 15:22:50.634359+00
 rubycop.near|johanga108.near|2023-08-28 23:14:54.069163+00
 rubycop.near|kiskesis.near|2023-08-13 14:19:14.37137+00
+rubycop.near|mob.near|2023-08-31 12:43:15.307885+00
 rubycop.near|moska.near|2023-08-28 23:28:44.234894+00
 rubycop.near|p3ter.near|2023-08-31 12:38:42.233632+00
 rubycop.near|pironi.near|2023-08-26 10:51:33.721734+00
@@ -1399,6 +1402,7 @@ rubycop.near|robert.near|2023-08-28 14:17:12.16895+00
 rubycop.near|rubycop.near|2023-08-30 10:09:39.429394+00
 rubycop.near|vadim.near|2023-08-26 10:47:26.426953+00
 rubycop.near|vlad.near|2023-08-30 20:42:38.863964+00
+rubycop.near|web3hedge.near|2023-08-31 12:50:07.622268+00
 rubycop.near|whendacha.near|2023-08-29 16:04:05.954934+00
 rubycop.near|yonota.near|2023-08-28 23:14:11.774218+00
 rustkyiv.near|evangel.near|2023-08-23 14:40:24.966998+00
@@ -1509,6 +1513,7 @@ starlightglimmer.near|tolmindev.near|2023-08-26 09:35:06.610355+00
 starlightglimmer.near|whendacha.near|2023-08-26 09:32:55.516902+00
 starlightglimmer.near|yonota.near|2023-08-26 09:33:20.064649+00
 stevekok.near|web3hedge.near|2023-08-28 13:09:41.960764+00
+strachu.near|robert.near|2023-08-31 12:40:20.7072+00
 suave.near|igboze_builder.near|2023-08-16 07:07:12.378375+00
 suave.near|kiskesis.near|2023-08-19 12:41:32.811192+00
 sumitgupta.near|rahulgoel.near|2023-08-15 07:03:00.307374+00
