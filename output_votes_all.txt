@@ -180,6 +180,7 @@ betrin.near|chefsale.near|2023-08-29 16:11:00.087584+00
 bhadboie.near|ndcplug.near|2023-08-27 23:11:20.541691+00
 bianca.near|chloe.near|2023-07-20 19:56:35.532309+00
 bianca.near|crans.near|2023-07-31 17:45:36.974693+00
+bigtinker.near|web3hedge.near|2023-08-31 21:14:29.048602+00
 billybones.near|dleer.near|2023-08-26 04:25:00.872274+00
 billybones.near|kangaroojack.near|2023-08-26 20:33:58.432979+00
 bishi.near|blaze.near|2023-08-30 13:20:12.446981+00
