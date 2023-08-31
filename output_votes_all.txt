@@ -1712,6 +1712,7 @@ yonota.near|kiskesis.near|2023-08-11 11:03:34.680168+00
 yonota.near|mob.near|2023-08-30 16:12:22.528858+00
 yonota.near|moska.near|2023-08-25 13:12:07.278529+00
 yonota.near|rubycop.near|2023-08-28 22:21:28.742491+00
+yonota.near|techdir.near|2023-08-31 00:04:10.427276+00
 yonota.near|tolmindev.near|2023-08-30 10:53:52.077489+00
 yonota.near|vadim.near|2023-08-22 14:40:35.87901+00
 yonota.near|whendacha.near|2023-08-24 15:00:08.447194+00
