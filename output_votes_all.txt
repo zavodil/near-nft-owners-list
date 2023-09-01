@@ -590,8 +590,10 @@ erariz.near|izubair.near|2023-08-26 01:45:07.044326+00
 erariz.near|johanga108.near|2023-08-26 01:44:20.104684+00
 erariz.near|techdir.near|2023-08-26 01:47:09.13988+00
 erariz.near|whendacha.near|2023-08-26 01:37:13.365882+00
+evangel.near|alan777.near|2023-09-01 20:13:45.191766+00
 evangel.near|bishi.near|2023-08-31 09:58:42.855893+00
 evangel.near|blaze.near|2023-08-31 09:59:46.410601+00
+evangel.near|davletuner.near|2023-09-01 20:13:18.339931+00
 evangel.near|dk_51.near|2023-08-23 14:27:58.167961+00
 evangel.near|haenko.near|2023-08-08 11:55:08.171803+00
 evangel.near|izubair.near|2023-08-12 21:52:42.383888+00
