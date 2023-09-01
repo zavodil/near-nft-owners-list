@@ -1153,6 +1153,8 @@ megdanov.near|davletuner.near|2023-08-28 06:58:05.449367+00
 megdanov.near|dleer.near|2023-08-28 07:00:26.339888+00
 mercep.near|chefsale.near|2023-08-29 08:21:49.577292+00
 metact.near|louisliu.near|2023-08-29 08:36:48.715936+00
+meta_irony.near|haenko.near|2023-09-01 07:42:59.899866+00
+meta_irony.near|odins_eyehole.near|2023-09-01 07:41:57.812949+00
 meteor-wallet.near|web3hedge.near|2023-08-31 10:16:13.882622+00
 mexist.near|kwhyc.near|2023-09-01 06:49:15.146391+00
 mfredson2near.near|dleer.near|2023-08-26 14:48:50.068698+00
