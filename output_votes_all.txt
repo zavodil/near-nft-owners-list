@@ -157,6 +157,7 @@ antonpaisov.near|vadim.near|2023-08-22 16:47:19.651998+00
 ape2.near|cryptois.near|2023-08-29 13:18:00.848017+00
 ape2.near|louisliu.near|2023-08-29 13:06:59.14544+00
 aryonchain.near|cameron.near|2023-08-30 00:00:27.791326+00
+ashish007.near|kumarkrsronit.near|2023-09-01 13:40:04.051927+00
 b1d913c446abd4525988d247ba70d9fead2a389ea98c7404d921a78bbd65061c|chloe.near|2023-07-22 06:02:46.17311+00
 b1d913c446abd4525988d247ba70d9fead2a389ea98c7404d921a78bbd65061c|dabbie3229.near|2023-07-22 06:00:48.490706+00
 b2204bac87e37da80d5fe270ac8bc4bf9951aaf5255d2622c2a3b16611d115f1|iamanansari.near|2023-08-30 09:42:12.922752+00
@@ -1602,6 +1603,7 @@ stevekok.near|web3hedge.near|2023-08-28 13:09:41.960764+00
 strachu.near|robert.near|2023-08-31 12:40:20.7072+00
 suave.near|igboze_builder.near|2023-08-16 07:07:12.378375+00
 suave.near|kiskesis.near|2023-08-19 12:41:32.811192+00
+sultandemir.near|whendacha.near|2023-09-01 13:45:13.527839+00
 sumitgupta.near|rahulgoel.near|2023-08-15 07:03:00.307374+00
 suulee.near|chefsale.near|2023-08-31 08:20:28.437025+00
 svetik.near|rubycop.near|2023-08-29 19:09:58.721633+00
