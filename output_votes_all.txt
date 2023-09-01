@@ -491,6 +491,7 @@ cwpuzzles.near|whendacha.near|2023-08-25 23:01:07.60268+00
 dabbie3229.near|chloe.near|2023-07-20 12:16:38.044828+00
 danaleso.near|yesn.near|2023-08-30 13:19:21.010594+00
 danbardeabd.near|mohaa.near|2023-08-19 19:31:51.123008+00
+dandelionv.near|web3hedge.near|2023-09-01 22:13:59.52254+00
 davidweinstein.near|marieke.near|2023-08-21 23:39:37.645992+00
 davletuner.near|alan777.near|2023-08-24 09:13:40.750396+00
 davletuner.near|blaze.near|2023-08-29 07:58:46.282074+00
