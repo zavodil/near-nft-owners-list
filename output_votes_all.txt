@@ -254,6 +254,7 @@ blaze.near|iamanansari.near|2023-08-18 10:13:08.383159+00
 blaze.near|igboze_builder.near|2023-08-08 11:54:05.910905+00
 blaze.near|izcc.near|2023-08-26 02:39:51.812462+00
 blaze.near|izubair.near|2023-08-08 12:10:08.443313+00
+blaze.near|jgold.near|2023-09-01 18:14:12.14049+00
 blaze.near|jloc.near|2023-08-08 12:07:05.334069+00
 blaze.near|joespano.near|2023-08-29 13:22:03.824137+00
 blaze.near|johanga108.near|2023-08-23 15:04:08.849129+00
