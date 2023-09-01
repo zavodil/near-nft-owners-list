@@ -1268,6 +1268,7 @@ nearmultiverse.near|alan777.near|2023-08-29 10:47:32.805984+00
 nearmultiverse.near|luciotato.near|2023-08-29 10:48:26.961405+00
 nearversedao.near|dleer.near|2023-08-26 11:08:52.940958+00
 nearversedao.near|kangaroojack.near|2023-08-30 18:47:50.387168+00
+nearversedao.near|kwhyc.near|2023-09-01 20:01:26.725638+00
 needb.near|chefsale.near|2023-08-29 16:09:34.828486+00
 nft-space.near|rubycop.near|2023-08-29 19:09:24.982299+00
 nickharrington.near|dleer.near|2023-08-26 00:02:49.005315+00
@@ -1703,6 +1704,7 @@ trendheo.near|maxkott.near|2023-08-15 07:59:23.829352+00
 trendheo.near|ogruss.near|2023-08-25 05:17:17.176651+00
 trendheo.near|p3ter.near|2023-08-31 05:43:31.256695+00
 trendheo.near|vikash.near|2023-08-25 05:47:37.503708+00
+trinity144.near|fritzwagner.near|2023-09-01 20:02:55.222108+00
 trinity144.near|kwhyc.near|2023-09-01 14:53:49.846506+00
 trophy001.near|achildhoodhero.near|2023-08-27 23:06:54.68571+00
 trophy001.near|ndcplug.near|2023-08-27 15:06:07.397871+00
