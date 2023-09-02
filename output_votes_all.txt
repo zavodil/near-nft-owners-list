@@ -242,6 +242,7 @@ blaze.near|crans.near|2023-08-08 12:08:42.972441+00
 blaze.near|cryptocredit.near|2023-08-19 03:12:48.20056+00
 blaze.near|cryptois.near|2023-08-08 12:09:37.482676+00
 blaze.near|dabbie3229.near|2023-08-08 12:11:18.293884+00
+blaze.near|danieldao.near|2023-09-02 15:40:45.749645+00
 blaze.near|davletuner.near|2023-08-25 17:06:54.876297+00
 blaze.near|dedeukwu.near|2023-08-08 11:53:20.034707+00
 blaze.near|dk_51.near|2023-08-18 09:59:53.587142+00
@@ -262,6 +263,7 @@ blaze.near|izcc.near|2023-08-26 02:39:51.812462+00
 blaze.near|izubair.near|2023-08-08 12:10:08.443313+00
 blaze.near|jgold.near|2023-09-01 18:14:12.14049+00
 blaze.near|jloc.near|2023-08-08 12:07:05.334069+00
+blaze.near|jlw.near|2023-09-02 15:36:19.621585+00
 blaze.near|joespano.near|2023-08-29 13:22:03.824137+00
 blaze.near|johanga108.near|2023-08-23 15:04:08.849129+00
 blaze.near|kangaroojack.near|2023-08-09 00:20:53.38666+00
@@ -500,6 +502,7 @@ dabbie3229.near|chloe.near|2023-07-20 12:16:38.044828+00
 danaleso.near|yesn.near|2023-08-30 13:19:21.010594+00
 danbardeabd.near|mohaa.near|2023-08-19 19:31:51.123008+00
 dandelionv.near|web3hedge.near|2023-09-01 22:13:59.52254+00
+danieldao.near|harveys.near|2023-09-02 15:46:28.067628+00
 davidweinstein.near|marieke.near|2023-08-21 23:39:37.645992+00
 davletuner.near|alan777.near|2023-08-24 09:13:40.750396+00
 davletuner.near|blaze.near|2023-08-29 07:58:46.282074+00
@@ -720,6 +723,7 @@ ginamm.near|jloc.near|2023-08-30 15:58:13.010329+00
 ginamm.near|ramgor.near|2023-08-30 15:49:23.48489+00
 gombret.near|crans.near|2023-08-25 12:42:53.698232+00
 grav1ty.near|alphaflexhub.near|2023-08-30 23:17:31.257874+00
+greenghost.near|chloe.near|2023-09-02 15:17:25.838547+00
 greenghost.near|vandal.near|2023-08-17 10:59:10.681586+00
 grex.near|alan777.near|2023-08-22 19:49:22.823393+00
 grex.near|izcc.near|2023-08-28 19:07:58.315738+00
@@ -1213,6 +1217,8 @@ max_one.near|iamanansari.near|2023-08-30 13:04:43.251644+00
 max_one.near|luciotato.near|2023-08-30 12:58:44.059347+00
 max_one.near|rahulgoel.near|2023-08-30 13:06:28.035522+00
 mayvely.near|ramgor.near|2023-08-30 00:12:13.415323+00
+megaverse.near|danieldao.near|2023-09-02 15:41:00.891912+00
+megaverse.near|harveys.near|2023-09-02 15:43:26.919729+00
 megdanov.near|davletuner.near|2023-08-28 06:58:05.449367+00
 megdanov.near|dleer.near|2023-08-28 07:00:26.339888+00
 mercep.near|chefsale.near|2023-08-29 08:21:49.577292+00
