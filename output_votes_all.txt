@@ -1194,6 +1194,7 @@ kisut.near|vadim.near|2023-08-24 23:56:15.788925+00
 klarakopi.near|chloe.near|2023-08-30 14:14:58.72266+00
 klarakopi.near|vandal.near|2023-08-30 14:13:03.182676+00
 klint.near|cryptocredit.near|2023-08-18 14:23:14.668894+00
+krikkraktrak.near|christinas.near|2023-09-05 19:10:45.772371+00
 krikkraktrak.near|dleer.near|2023-08-31 09:17:43.038589+00
 krikkraktrak.near|kangaroojack.near|2023-08-30 19:40:11.890995+00
 krikkraktrak.near|odins_eyehole.near|2023-08-31 08:38:01.47198+00
