@@ -1417,6 +1417,7 @@ mike.near|luciotato.near|2023-09-02 18:24:02.021363+00
 mike.near|marieke.near|2023-09-02 18:26:34.472595+00
 mike.near|mattlock.near|2023-09-04 18:55:20.599396+00
 mike.near|mob.near|2023-09-02 18:15:30.385298+00
+mike.near|odins_eyehole.near|2023-09-05 20:18:52.77005+00
 mike.near|p3ter.near|2023-09-02 18:22:52.138769+00
 mike.near|vadim.near|2023-09-02 18:23:33.913526+00
 mike.near|vlad.near|2023-09-02 18:16:07.725197+00
@@ -1764,6 +1765,7 @@ rubycop.near|bishi.near|2023-08-30 18:28:33.17054+00
 rubycop.near|blaze.near|2023-08-09 06:31:07.394597+00
 rubycop.near|chloe.near|2023-07-26 10:22:25.386624+00
 rubycop.near|eschnoeckel.near|2023-08-31 12:37:42.943876+00
+rubycop.near|evangel.near|2023-09-05 20:20:37.961123+00
 rubycop.near|jlw.near|2023-07-19 15:22:50.634359+00
 rubycop.near|johanga108.near|2023-08-28 23:14:54.069163+00
 rubycop.near|kiskesis.near|2023-08-13 14:19:14.37137+00
