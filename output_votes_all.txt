@@ -1413,6 +1413,7 @@ mike.near|cameron.near|2023-09-02 18:16:28.006449+00
 mike.near|chefsale.near|2023-09-02 18:25:32.63786+00
 mike.near|cryptois.near|2023-09-02 18:27:22.503152+00
 mike.near|jgold.near|2023-09-02 18:24:53.148726+00
+mike.near|joespano.near|2023-09-05 20:42:18.212363+00
 mike.near|luciotato.near|2023-09-02 18:24:02.021363+00
 mike.near|marieke.near|2023-09-02 18:26:34.472595+00
 mike.near|mattlock.near|2023-09-04 18:55:20.599396+00
