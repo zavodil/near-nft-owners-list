@@ -3,7 +3,7 @@ name: Run Election Votes Query and Save Output
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '* */10 * * *'
+    - cron:  '* */1 * * *'
 jobs:
   run-query-and-save:
     runs-on: ubuntu-latest
