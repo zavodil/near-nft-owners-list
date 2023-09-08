@@ -1,3 +1,4 @@
+pironi.near|2023-09-08 18:13:30.99928+00|SUCCESS_VALUE|1|["louisliu.near", "davidweinstein.near", "odins_eyehole.near", "tiffany.near", "kazanderdad.near", "p3ter.near", "klint.near", "chloe.near", "mob.near", "woben.near", "lolson.near", "cronus.near", "cameron.near", "vadim.near", "iamgalt.near"]
 izcc.near|2023-09-08 18:00:10.211347+00|SUCCESS_VALUE|3|["ramgor.near", "alejandro.near"]
 0f00d914e7d946a26e424d90b840f0e005736a55e11c6f67c7903b104ee82dc6|2023-09-08 17:57:00.150023+00|SUCCESS_VALUE|3|["yourdad.near"]
 tayfuni.near|2023-09-08 17:55:21.346174+00|SUCCESS_VALUE|3|["rektdegen.near", "christinas.near", "arezhas.near", "cryptois.near", "pironi.near"]
