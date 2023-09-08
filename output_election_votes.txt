@@ -1,3 +1,5 @@
+oyaniuk.near|2023-09-08 23:08:21.63035+00|SUCCESS_VALUE|1|["iamgalt.near"]
+techdir.near|2023-09-08 23:03:53.122151+00|SUCCESS_VALUE|3|["moska.near", "johanga108.near", "izubair.near", "tolmindev.near", "yonota.near", "yourdad.near", "maks1mk_a.near"]
 techdir.near|2023-09-08 22:53:21.327278+00|SUCCESS_VALUE|2|["evangel.near", "iamanansari.near", "rubycop.near", "as.near", "ahsas.near", "frol.near", "techdir.near"]
 andresdom.near|2023-09-08 22:39:32.40499+00|SUCCESS_VALUE|1|["fritzwagner.near", "alan777.near", "kemo.near"]
 andresdom.near|2023-09-08 22:36:37.305281+00|SUCCESS_VALUE|2|["izcc.near", "jloc.near"]
