@@ -1,3 +1,6 @@
+monkey_king.near|2023-09-08 16:12:18.908279+00|SUCCESS_VALUE|1|["haenko.near"]
+monkey_king.near|2023-09-08 16:11:28.498189+00|SUCCESS_VALUE|3|["yonota.near"]
+purpledot.near|2023-09-08 15:59:19.333389+00|SUCCESS_VALUE|1|["dedeukwu.near"]
 fiend.near|2023-09-08 15:53:07.325311+00|SUCCESS_VALUE|1|["haenko.near"]
 fiend.near|2023-09-08 15:50:05.468179+00|SUCCESS_VALUE|3|["yonota.near"]
 trophy001.near|2023-09-08 15:36:12.874288+00|SUCCESS_VALUE|3|["ntare.near"]
