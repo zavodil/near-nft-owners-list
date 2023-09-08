@@ -1,4 +1,4 @@
-name: Run PostgreSQL Query and Save Output
+name: Run Election Votes Query and Save Output
 
 on:
   workflow_dispatch:
