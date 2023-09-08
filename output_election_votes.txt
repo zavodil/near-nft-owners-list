@@ -1,3 +1,4 @@
+jcb.near|2023-09-08 23:43:43.556033+00|SUCCESS_VALUE|2|["mattlock.near", "marieke.near", "sammiee1.near", "jgold.near", "reespect.near", "jloc.near"]
 jcb.near|2023-09-08 23:37:52.80498+00|SUCCESS_VALUE|1|["vandal.near", "dleer.near", "dedeukwu.near", "fritzwagner.near", "sahilmassey.near", "kennyj.near", "frado.near", "ogruss.near", "cryptocredit.near"]
 oyaniuk.near|2023-09-08 23:08:21.63035+00|SUCCESS_VALUE|1|["iamgalt.near"]
 techdir.near|2023-09-08 23:03:53.122151+00|SUCCESS_VALUE|3|["moska.near", "johanga108.near", "izubair.near", "tolmindev.near", "yonota.near", "yourdad.near", "maks1mk_a.near"]
