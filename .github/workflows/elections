@@ -1,0 +1,31 @@
+name: Run PostgreSQL Query and Save Output
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '* */10 * * *'
+jobs:
+  run-query-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Run Query and Save Output
+        env:
+            PGPASSWORD: ${{ secrets.PGPASSWORD }}
+        id: queryAll
+        run: psql -h ${{ secrets.PGHOST }} -U ${{ secrets.PGUSER }} -d mainnet_explorer -tAc "WITH votes AS ( SELECT action_receipt_actions.receipt_predecessor_account_id as account_id, action_receipt_actions.receipt_id as receipt_id, MIN(execution_outcomes.status) as status, ((args->>'args_json')::json->>'prop_id')::int as house, ((args->>'args_json')::json->>'vote') as vote FROM action_receipt_actions INNER JOIN execution_outcome_receipts ON execution_outcome_receipts.executed_receipt_id = action_receipt_actions.receipt_id LEFT JOIN execution_outcomes ON execution_outcomes.receipt_id  = execution_outcome_receipts.produced_receipt_id WHERE action_receipt_actions.receipt_receiver_account_id = 'elections.ndc-gwg.near' AND action_receipt_actions.action_kind = 'FUNCTION_CALL' AND action_receipt_actions.args ->> 'method_name' = 'vote' AND ((args->>'args_json')::json->>'prop_id')::int != 4 GROUP BY action_receipt_actions.receipt_id, account_id, args ORDER BY status ) SELECT * FROM votes WHERE status = 'SUCCESS_VALUE' ORDER BY account_id, house" > output_election_votes.txt
+        shell: bash
+
+      - uses: EndBug/add-and-commit@v9 
+        with: 
+          author_name: "Vote parser"
+          add: 'output_election_votes.txt --force'
+          message: "Vadim votes parse"
+
+      - uses: EndBug/add-and-commit@v9 
+        with: 
+          author_name: "Vote parser"
+          add: 'output_election_votes.txt --force'
+          message: "All votes parse"      
