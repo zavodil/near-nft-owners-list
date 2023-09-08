@@ -1,3 +1,5 @@
+chefsale.near|2023-09-08 16:30:16.085349+00|SUCCESS_VALUE|2|["chefsale.near", "yesn.near", "as.near", "frol.near"]
+kitkin.near|2023-09-08 16:29:25.898653+00|SUCCESS_VALUE|1|["haenko.near"]
 jinou.near|2023-09-08 16:26:28.533025+00|SUCCESS_VALUE|1|["tiffany.near", "woben.near", "mob.near", "vlad.near", "chloe.near", "rileytran.near"]
 monkey_king.near|2023-09-08 16:12:18.908279+00|SUCCESS_VALUE|1|["haenko.near"]
 monkey_king.near|2023-09-08 16:11:28.498189+00|SUCCESS_VALUE|3|["yonota.near"]
