@@ -1,3 +1,4 @@
+requiemnick.near|2023-09-08 20:44:03.69912+00|SUCCESS_VALUE|1|["dleer.near", "odins_eyehole.near", "haenko.near", "vlad.near", "cameron.near", "web3hedge.near", "auroracfo.near", "vadim.near", "tiffany.near", "p3ter.near", "kiskesis.near", "klint.near", "whendacha.near", "rileytran.near", "gcohen.near"]
 ape2.near|2023-09-08 20:28:33.227997+00|SUCCESS_VALUE|1|["louisliu.near", "kelsontoh.near", "gcohen.near", "p3ter.near", "woben.near"]
 monetki.near|2023-09-08 20:15:26.141966+00|SUCCESS_VALUE|1|["haenko.near", "whendacha.near"]
 monetki.near|2023-09-08 20:08:47.779939+00|SUCCESS_VALUE|3|["yonota.near"]
