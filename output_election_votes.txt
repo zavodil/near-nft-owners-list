@@ -1,3 +1,4 @@
+mike.near|2023-09-08 18:38:42.158325+00|SUCCESS_VALUE|1|["mob.near", "vadim.near"]
 mike.near|2023-09-08 18:38:26.461229+00|SUCCESS_VALUE|1|["mob.near", "vadim.near"]
 alyonushka.near|2023-09-08 18:36:34.312738+00|SUCCESS_VALUE|1|["cronus.near", "lolson.near", "vadim.near", "rileytran.near"]
 mike.near|2023-09-08 18:31:05.877419+00|SUCCESS_VALUE|2|["marieke.near", "yesn.near", "joespano.near", "blaze.near", "as.near", "frol.near", "chefsale.near"]
