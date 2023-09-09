@@ -1,3 +1,4 @@
+rexux.near|2023-09-09 16:22:56.741299+00|SUCCESS_VALUE|3|["johanga108.near", "izubair.near", "tolmindev.near", "rahulgoel.near", "vikash.near", "yashank.near", "yonota.near"]
 ra88it.near|2023-09-09 16:02:32.594179+00|SUCCESS_VALUE|1|["odins_eyehole.near", "dleer.near"]
 ra88it.near|2023-09-09 16:00:46.071138+00|SUCCESS_VALUE|3|["cryptois.near", "pironi.near", "escobarindo.near", "rektdegen.near", "christinas.near"]
 sarahkornfeld.near|2023-09-09 15:57:23.144008+00|SUCCESS_VALUE|3|["jarednotjerry.near", "blessedchidi.near", "crans.near", "alejandro.near"]
