@@ -1,3 +1,6 @@
+donni.near|2023-09-09 23:11:37.376788+00|SUCCESS_VALUE|3|["cjpd.near"]
+donni.near|2023-09-09 23:09:39.619188+00|SUCCESS_VALUE|1|["woben.near", "vlad.near", "bearmans.near", "chloe.near", "vadim.near"]
+donni.near|2023-09-09 23:07:11.788721+00|SUCCESS_VALUE|2|["kwhyc.near"]
 fictionspawn.near|2023-09-09 22:59:01.491982+00|SUCCESS_VALUE|1|["haenko.near", "vlad.near", "vandal.near"]
 8d896e439b3111e1107403f1a8e64400de5283897a09b4dbc9102759c2bfef1c|2023-09-09 22:01:56.543692+00|SUCCESS_VALUE|2|["rubycop.near", "as.near"]
 adedolapo.near|2023-09-09 21:48:33.775931+00|SUCCESS_VALUE|3|["abdulkareem.near"]
