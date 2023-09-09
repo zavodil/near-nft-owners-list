@@ -1,3 +1,4 @@
+liight.near|2023-09-09 07:10:16.370999+00|SUCCESS_VALUE|1|["kazanderdad.near", "ogruss.near", "mob.near", "chloe.near", "lolson.near", "vadim.near", "dleer.near", "kiskesis.near", "vlad.near", "davletuner.near", "denbite.near", "haenko.near", "whendacha.near", "rexux.near", "auroracfo.near"]
 vlodkow.near|2023-09-09 06:20:30.157397+00|SUCCESS_VALUE|2|["rubycop.near"]
 curmello.near|2023-09-09 05:19:16.260033+00|SUCCESS_VALUE|3|["rahulgoel.near", "escobarindo.near", "jarednotjerry.near", "yourdad.near", "vikash.near", "dabbie3229.near", "blessedchidi.near"]
 curmello.near|2023-09-09 05:16:46.459944+00|SUCCESS_VALUE|2|["blaze.near", "joespano.near", "marieke.near", "techdir.near", "mattlock.near", "bishi.near", "flame1.near"]
