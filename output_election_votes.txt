@@ -1,3 +1,5 @@
+curmello.near|2023-09-09 05:19:16.260033+00|SUCCESS_VALUE|3|["rahulgoel.near", "escobarindo.near", "jarednotjerry.near", "yourdad.near", "vikash.near", "dabbie3229.near", "blessedchidi.near"]
+curmello.near|2023-09-09 05:16:46.459944+00|SUCCESS_VALUE|2|["blaze.near", "joespano.near", "marieke.near", "techdir.near", "mattlock.near", "bishi.near", "flame1.near"]
 curmello.near|2023-09-09 05:14:01.381191+00|SUCCESS_VALUE|1|["psalm.near", "ogruss.near", "igboze_builder.near", "kazanderdad.near", "dedeukwu.near", "dleer.near", "odins_eyehole.near", "chloe.near", "web3hedge.near", "earnestetim.near", "kennyj.near", "vlad.near", "cameron.near", "vadim.near", "tiffany.near"]
 maruja.near|2023-09-09 05:01:36.748087+00|SUCCESS_VALUE|3|["kriptoraptor.near", "ramgor.near", "larkim.near"]
 maruja.near|2023-09-09 04:59:27.754756+00|SUCCESS_VALUE|2|["jloc.near", "izcc.near"]
