@@ -1,3 +1,5 @@
+maruja.near|2023-09-09 04:57:08.03996+00|SUCCESS_VALUE|1|["alan777.near", "luciotato.near", "fritzwagner.near", "kemo.near"]
+izubair.near|2023-09-09 04:55:52.58446+00|SUCCESS_VALUE|3|["izubair.near", "moska.near", "johanga108.near", "vikash.near", "yonota.near", "tolmindev.near", "rahulgoel.near"]
 izubair.near|2023-09-09 04:50:56.689008+00|SUCCESS_VALUE|2|["as.near", "ahsas.near", "evangel.near", "techdir.near", "flame1.near", "rubycop.near", "iamanansari.near"]
 izubair.near|2023-09-09 04:47:06.088286+00|SUCCESS_VALUE|1|["haenko.near", "vadim.near", "davletuner.near", "rexux.near", "maxkott.near", "whendacha.near", "auroracfo.near", "denbite.near", "kiskesis.near", "dk_51.near", "mob.near", "lolson.near", "vlad.near"]
 pablo158.near|2023-09-09 04:25:46.544399+00|SUCCESS_VALUE|2|["ahsas.near", "flame1.near", "techdir.near", "iamanansari.near", "as.near", "rubycop.near", "jlw.near"]
