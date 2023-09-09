@@ -1,3 +1,6 @@
+dromand.near|2023-09-09 10:55:01.952046+00|SUCCESS_VALUE|3|["tolmindev.near", "izubair.near", "maks1mk_a.near", "yonota.near", "johanga108.near", "moska.near", "yourdad.near"]
+dromand.near|2023-09-09 10:53:31.693274+00|SUCCESS_VALUE|2|["rubycop.near"]
+dromand.near|2023-09-09 10:52:40.907488+00|SUCCESS_VALUE|1|["whendacha.near", "vadim.near", "kiskesis.near", "maxkott.near", "dk_51.near", "lolson.near", "davletuner.near", "mob.near", "auroracfo.near", "rexux.near"]
 illli.near|2023-09-09 10:46:58.834138+00|SUCCESS_VALUE|3|["tolmindev.near", "izubair.near", "maks1mk_a.near", "johanga108.near", "moska.near"]
 illli.near|2023-09-09 10:45:08.2415+00|SUCCESS_VALUE|1|["vadim.near", "cameron.near", "whendacha.near", "kiskesis.near", "maxkott.near", "dk_51.near", "lolson.near", "davletuner.near", "mob.near", "denbite.near", "rexux.near", "auroracfo.near"]
 illli.near|2023-09-09 10:42:42.968361+00|SUCCESS_VALUE|2|["rubycop.near"]
