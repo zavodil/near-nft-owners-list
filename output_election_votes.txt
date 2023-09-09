@@ -1,3 +1,4 @@
+omajari199.near|2023-09-09 07:58:27.714273+00|SUCCESS_VALUE|2|["duocelot.near", "techdir.near", "alphaflexhub.near", "as.near", "blaze.near"]
 omajari199.near|2023-09-09 07:56:41.518006+00|SUCCESS_VALUE|1|["dk_51.near", "igboze_builder.near", "kekiboh.near", "whendacha.near", "earnestetim.near"]
 7418d5cb7d7657e526b8bccf28750939105828d0f5b34a7254bd107477d84a2c|2023-09-09 07:52:59.799491+00|SUCCESS_VALUE|1|["kazanderdad.near", "psalm.near"]
 7418d5cb7d7657e526b8bccf28750939105828d0f5b34a7254bd107477d84a2c|2023-09-09 07:52:07.883745+00|SUCCESS_VALUE|3|["escobarindo.near", "vikash.near"]
