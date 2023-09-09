@@ -1,3 +1,5 @@
+roshangeek.near|2023-09-09 08:44:57.768398+00|SUCCESS_VALUE|1|["rexux.near", "dk_51.near", "lolson.near", "vadim.near", "maxkott.near", "whendacha.near", "haenko.near", "kiskesis.near", "auroracfo.near", "davletuner.near", "denbite.near", "mob.near", "vlad.near"]
+mrmachine1903.near|2023-09-09 08:43:48.457412+00|SUCCESS_VALUE|1|["vandal.near", "rileytran.near", "gcohen.near", "davletuner.near", "vlad.near", "luciotato.near", "alan777.near", "derymars.near", "masterofcode.near", "planetaworld.near", "chloe.near", "rexux.near", "frado.near", "tiffany.near", "bearmans.near"]
 roshangeek.near|2023-09-09 08:36:22.265272+00|SUCCESS_VALUE|2|["iamanansari.near"]
 omajari199.near|2023-09-09 08:28:58.344069+00|SUCCESS_VALUE|3|["blessedchidi.near", "dabbie3229.near"]
 ace17.near|2023-09-09 08:18:33.111634+00|SUCCESS_VALUE|3|["larkim.near", "crans.near"]
