@@ -1,3 +1,7 @@
+oladokun.near|2023-09-09 18:02:15.587324+00|SUCCESS_VALUE|3|["blessedchidi.near", "dabbie3229.near", "larkim.near", "abdulkareem.near"]
+tausifhussain.near|2023-09-09 18:01:29.396939+00|SUCCESS_VALUE|3|["vikash.near", "izubair.near", "rahulgoel.near", "johanga108.near"]
+tausifhussain.near|2023-09-09 17:58:55.014128+00|SUCCESS_VALUE|2|["jloc.near", "jlw.near", "harveys.near", "iamanansari.near"]
+tausifhussain.near|2023-09-09 17:57:40.174463+00|SUCCESS_VALUE|1|["whendacha.near", "rexux.near", "kiskesis.near", "fritzwagner.near", "maxkott.near", "haenko.near", "dk_51.near"]
 shashankvaranasi.near|2023-09-09 17:46:33.376782+00|SUCCESS_VALUE|3|["rektdegen.near", "izubair.near", "vikash.near", "rahulgoel.near", "alejandro.near"]
 shashankvaranasi.near|2023-09-09 17:43:41.622838+00|SUCCESS_VALUE|2|["iamanansari.near", "mattlock.near", "as.near", "bennyblanco.near", "marieke.near", "blaze.near"]
 shashankvaranasi.near|2023-09-09 17:39:00.679025+00|SUCCESS_VALUE|1|["web3hedge.near", "whendacha.near", "fritzwagner.near", "vlad.near", "woben.near"]
