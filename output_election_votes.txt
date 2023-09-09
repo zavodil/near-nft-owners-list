@@ -1,3 +1,6 @@
+e0cf5b63e5586b1908e82b4c750ce19a4492b6bb722cc1e3911f90fb8e04f4d3|2023-09-09 10:38:51.650832+00|SUCCESS_VALUE|3|["ntare.near", "rahulgoel.near", "cjpd.near"]
+e0cf5b63e5586b1908e82b4c750ce19a4492b6bb722cc1e3911f90fb8e04f4d3|2023-09-09 10:37:09.443405+00|SUCCESS_VALUE|2|["rubycop.near"]
+e0cf5b63e5586b1908e82b4c750ce19a4492b6bb722cc1e3911f90fb8e04f4d3|2023-09-09 10:36:26.006655+00|SUCCESS_VALUE|1|["luciotato.near"]
 rootx.near|2023-09-09 10:32:28.516872+00|SUCCESS_VALUE|3|["rahulgoel.near"]
 larkim.near|2023-09-09 10:32:23.423191+00|SUCCESS_VALUE|3|["larkim.near", "abdulkareem.near"]
 rootx.near|2023-09-09 10:31:07.054581+00|SUCCESS_VALUE|2|["jlw.near", "rubycop.near"]
