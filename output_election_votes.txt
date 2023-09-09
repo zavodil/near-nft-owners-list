@@ -1,3 +1,5 @@
+explorebivab.near|2023-09-09 12:43:51.342652+00|SUCCESS_VALUE|2|["ndcplug.near"]
+abhishekanirudhan.near|2023-09-09 12:42:36.261826+00|SUCCESS_VALUE|1|["davidweinstein.near", "rileytran.near", "cameron.near"]
 nirmitkataria.near|2023-09-09 11:04:07.085514+00|SUCCESS_VALUE|1|["whendacha.near", "fritzwagner.near"]
 nirmitkataria.near|2023-09-09 11:02:37.832124+00|SUCCESS_VALUE|2|["iamanansari.near"]
 nirmitkataria.near|2023-09-09 11:00:05.613815+00|SUCCESS_VALUE|3|["vikash.near", "rahulgoel.near", "izubair.near"]
