@@ -1,3 +1,7 @@
+sarahkornfeld.near|2023-09-09 15:57:23.144008+00|SUCCESS_VALUE|3|["jarednotjerry.near", "blessedchidi.near", "crans.near", "alejandro.near"]
+sarahkornfeld.near|2023-09-09 15:56:04.289154+00|SUCCESS_VALUE|2|["antmarshall360.near", "reespect.near", "achildhoodhero.near", "sammiee1.near"]
+sarahkornfeld.near|2023-09-09 15:52:59.410928+00|SUCCESS_VALUE|1|["kennyj.near"]
+fiatisabubble.near|2023-09-09 15:51:37.281489+00|SUCCESS_VALUE|2|["joespano.near", "ndcplug.near", "jlw.near", "mattlock.near", "marieke.near", "keyokey.near", "yesn.near"]
 ra88it.near|2023-09-09 15:50:28.720664+00|SUCCESS_VALUE|2|["kangaroojack.near", "bennyblanco.near"]
 rexux.near|2023-09-09 15:32:45.839796+00|SUCCESS_VALUE|2|["techdir.near", "flame1.near", "as.near", "iamanansari.near", "kumarkrsronit.near", "rubycop.near", "evangel.near"]
 petersalomonsen.near|2023-09-09 15:29:11.250208+00|SUCCESS_VALUE|2|["jgold.near", "mattlock.near"]
