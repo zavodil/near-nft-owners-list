@@ -1,3 +1,5 @@
+maruja.near|2023-09-09 05:01:36.748087+00|SUCCESS_VALUE|3|["kriptoraptor.near", "ramgor.near", "larkim.near"]
+maruja.near|2023-09-09 04:59:27.754756+00|SUCCESS_VALUE|2|["jloc.near", "izcc.near"]
 maruja.near|2023-09-09 04:57:08.03996+00|SUCCESS_VALUE|1|["alan777.near", "luciotato.near", "fritzwagner.near", "kemo.near"]
 izubair.near|2023-09-09 04:55:52.58446+00|SUCCESS_VALUE|3|["izubair.near", "moska.near", "johanga108.near", "vikash.near", "yonota.near", "tolmindev.near", "rahulgoel.near"]
 izubair.near|2023-09-09 04:50:56.689008+00|SUCCESS_VALUE|2|["as.near", "ahsas.near", "evangel.near", "techdir.near", "flame1.near", "rubycop.near", "iamanansari.near"]
