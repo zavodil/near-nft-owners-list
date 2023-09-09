@@ -1,3 +1,7 @@
+omajari199.near|2023-09-09 07:56:41.518006+00|SUCCESS_VALUE|1|["dk_51.near", "igboze_builder.near", "kekiboh.near", "whendacha.near", "earnestetim.near"]
+7418d5cb7d7657e526b8bccf28750939105828d0f5b34a7254bd107477d84a2c|2023-09-09 07:52:59.799491+00|SUCCESS_VALUE|1|["kazanderdad.near", "psalm.near"]
+7418d5cb7d7657e526b8bccf28750939105828d0f5b34a7254bd107477d84a2c|2023-09-09 07:52:07.883745+00|SUCCESS_VALUE|3|["escobarindo.near", "vikash.near"]
+7418d5cb7d7657e526b8bccf28750939105828d0f5b34a7254bd107477d84a2c|2023-09-09 07:50:48.020809+00|SUCCESS_VALUE|2|["blaze.near"]
 metameech.near|2023-09-09 07:30:09.404476+00|SUCCESS_VALUE|3|["escobarindo.near", "jarednotjerry.near"]
 metameech.near|2023-09-09 07:29:03.620954+00|SUCCESS_VALUE|2|["bennyblanco.near", "joespano.near"]
 metameech.near|2023-09-09 07:25:54.120905+00|SUCCESS_VALUE|1|["dleer.near"]
