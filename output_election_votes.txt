@@ -1,3 +1,5 @@
+rvcj.near|2023-09-10 19:35:40.492481+00|SUCCESS_VALUE|3|["yashank.near", "moska.near", "johanga108.near", "yonota.near", "vikash.near", "izubair.near"]
+rvcj.near|2023-09-10 19:33:44.631153+00|SUCCESS_VALUE|2|["iamanansari.near", "flame1.near", "vianftbrasil.near"]
 rvcj.near|2023-09-10 19:30:27.66382+00|SUCCESS_VALUE|1|["whendacha.near", "rexux.near", "dk_51.near", "monish016.near", "bearmans.near"]
 biolmoon.near|2023-09-10 19:07:45.593872+00|SUCCESS_VALUE|3|["ramgor.near", "kriptoraptor.near", "andersonr.near"]
 biolmoon.near|2023-09-10 19:04:13.391578+00|SUCCESS_VALUE|2|["jloc.near", "izcc.near"]
