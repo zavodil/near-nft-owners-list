@@ -1,3 +1,4 @@
+frado.near|2023-09-10 02:25:20.843199+00|SUCCESS_VALUE|3|["crans.near", "williamxx.near", "andersonr.near", "kriptoraptor.near", "cjpd.near", "escobarindo.near", "larkim.near"]
 frado.near|2023-09-10 02:19:48.832698+00|SUCCESS_VALUE|2|["blaze.near", "ahsas.near", "jgold.near", "ndcplug.near", "vianftbrasil.near", "joespano.near", "reespect.near"]
 riversyang.near|2023-09-10 02:14:07.928486+00|SUCCESS_VALUE|3|["cryptois.near", "moska.near"]
 frado.near|2023-09-10 02:13:17.716493+00|SUCCESS_VALUE|1|["chloe.near", "ogruss.near", "kiskesis.near", "frado.near", "p3ter.near", "monish016.near", "vlad.near", "psalm.near", "igboze_builder.near", "vandal.near", "fritzwagner.near", "sahilmassey.near", "vadim.near"]
