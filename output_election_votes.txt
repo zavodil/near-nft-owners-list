@@ -1,3 +1,6 @@
+alecaseg.near|2023-09-10 18:31:31.901457+00|SUCCESS_VALUE|1|["fritzwagner.near"]
+alecaseg.near|2023-09-10 18:28:17.289129+00|SUCCESS_VALUE|2|["jloc.near"]
+alecaseg.near|2023-09-10 18:26:27.783877+00|SUCCESS_VALUE|3|["ramgor.near"]
 sachinmurali03.near|2023-09-10 17:13:01.344843+00|SUCCESS_VALUE|3|["vikash.near", "yashank.near", "pironi.near", "johanga108.near", "rahulgoel.near", "izubair.near", "yonota.near"]
 sachinmurali03.near|2023-09-10 17:10:59.59196+00|SUCCESS_VALUE|2|["kumarkrsronit.near", "iamanansari.near", "as.near", "evangel.near", "techdir.near", "flame1.near", "ahsas.near"]
 aidarkun.near|2023-09-10 17:10:00.701798+00|SUCCESS_VALUE|3|["escobarindo.near", "crans.near", "jarednotjerry.near", "yourdad.near", "christinas.near"]
