@@ -1,3 +1,5 @@
+thisthatjosh.near|2023-09-11 14:50:18.157142+00|SUCCESS_VALUE|2|["alyonushka.near", "nearkat.near", "bennyblanco.near", "jlw.near", "robert.near", "ahsas.near", "achildhoodhero.near"]
+thisthatjosh.near|2023-09-11 14:47:59.185546+00|SUCCESS_VALUE|1|["rileytran.near", "cronus.near", "kelsontoh.near", "thisthatjosh.near", "kemo.near", "kennyj.near", "tutmt.near", "salikc9.near", "gcohen.near", "chloe.near", "tiffany.near", "p3ter.near", "iamgalt.near", "ugxnear.near", "klint.near"]
 zeitwarp.near|2023-09-11 14:04:01.966865+00|SUCCESS_VALUE|3|["crans.near", "waverlymaven.near", "cryptois.near", "jarednotjerry.near", "alejandro.near", "kriptoraptor.near", "pironi.near"]
 zeitwarp.near|2023-09-11 14:01:25.036606+00|SUCCESS_VALUE|2|["yesn.near", "mattlock.near", "kwhyc.near", "jgold.near", "blaze.near", "ndcplug.near", "joespano.near"]
 zeitwarp.near|2023-09-11 13:59:05.249566+00|SUCCESS_VALUE|1|["vlad.near", "haenko.near", "kiskesis.near", "vandal.near", "cameron.near", "fritzwagner.near", "woben.near", "chloe.near", "tiffany.near", "kazanderdad.near", "p3ter.near", "whendacha.near", "mob.near", "cryptocredit.near", "sahilmassey.near"]
