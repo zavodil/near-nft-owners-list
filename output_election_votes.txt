@@ -1,3 +1,4 @@
+johanv8.near|2023-09-11 03:43:13.453493+00|SUCCESS_VALUE|3|["ramgor.near", "izubair.near", "cryptois.near", "arezhas.near", "larkim.near", "yonota.near", "christinas.near"]
 johanv8.near|2023-09-11 03:40:49.860798+00|SUCCESS_VALUE|2|["jloc.near", "kwhyc.near", "nearkat.near", "antmarshall360.near", "izcc.near", "techdir.near", "sammiee1.near"]
 johanv8.near|2023-09-11 03:37:06.543303+00|SUCCESS_VALUE|1|["fritzwagner.near"]
 edi0x.near|2023-09-11 03:00:47.684552+00|SUCCESS_VALUE|3|["ramgor.near"]
