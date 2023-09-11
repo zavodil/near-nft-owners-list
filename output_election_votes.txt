@@ -1,3 +1,5 @@
+violet_spades.near|2023-09-11 10:22:03.896246+00|SUCCESS_VALUE|1|["auroracfo.near", "davletuner.near", "dk_51.near", "haenko.near", "maxkott.near", "mob.near", "odins_eyehole.near", "rexux.near", "vlad.near", "whendacha.near", "vadim.near", "lolson.near", "denbite.near", "kiskesis.near"]
+magnusb.near|2023-09-11 10:17:01.413607+00|SUCCESS_VALUE|3|["sallymg.near", "waverlymaven.near"]
 goudvis.near|2023-09-11 10:13:38.815653+00|SUCCESS_VALUE|1|["web3hedge.near", "odins_eyehole.near"]
 goudvis.near|2023-09-11 10:12:18.253333+00|SUCCESS_VALUE|2|["bennyblanco.near"]
 kriptoraptor.near|2023-09-11 10:11:00.580577+00|SUCCESS_VALUE|3|["kriptoraptor.near", "rahulgoel.near", "vikash.near", "ramgor.near"]
