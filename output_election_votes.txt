@@ -1,3 +1,8 @@
+so608.near|2023-09-11 20:09:30.513577+00|SUCCESS_VALUE|3|["jarednotjerry.near", "yourdad.near", "johanga108.near", "cryptois.near", "izubair.near", "crans.near", "aurorafinance1.near"]
+so608.near|2023-09-11 20:06:11.898226+00|SUCCESS_VALUE|2|["as.near", "yesn.near", "marieke.near", "keyokey.near", "achildhoodhero.near", "joespano.near", "bennyblanco.near"]
+so608.near|2023-09-11 20:03:41.708371+00|SUCCESS_VALUE|1|["cryptocredit.near", "klint.near", "igboze_builder.near", "cameron.near", "whendacha.near", "odins_eyehole.near", "vandal.near", "chloe.near", "davidweinstein.near", "mob.near", "p3ter.near", "auroracfo.near", "derymars.near", "earnestetim.near", "kazanderdad.near"]
+thegood.near|2023-09-11 20:03:18.424062+00|SUCCESS_VALUE|3|["ramgor.near"]
+thegood.near|2023-09-11 20:00:54.729901+00|SUCCESS_VALUE|2|["jloc.near"]
 thegood.near|2023-09-11 19:56:46.285492+00|SUCCESS_VALUE|1|["fritzwagner.near"]
 loulou15.near|2023-09-11 19:30:16.866474+00|SUCCESS_VALUE|2|["yesn.near"]
 abubakar.near|2023-09-11 18:36:40.363503+00|SUCCESS_VALUE|3|["yourdad.near", "tolmindev.near", "yonota.near", "johanga108.near", "moska.near", "izubair.near", "rahulgoel.near"]
