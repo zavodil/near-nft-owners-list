@@ -1,3 +1,4 @@
+thegood.near|2023-09-11 19:56:46.285492+00|SUCCESS_VALUE|1|["fritzwagner.near"]
 loulou15.near|2023-09-11 19:30:16.866474+00|SUCCESS_VALUE|2|["yesn.near"]
 abubakar.near|2023-09-11 18:36:40.363503+00|SUCCESS_VALUE|3|["yourdad.near", "tolmindev.near", "yonota.near", "johanga108.near", "moska.near", "izubair.near", "rahulgoel.near"]
 abubakar.near|2023-09-11 18:33:39.86267+00|SUCCESS_VALUE|2|["iamanansari.near", "rubycop.near", "techdir.near", "as.near", "ahsas.near", "frol.near", "evangel.near"]
