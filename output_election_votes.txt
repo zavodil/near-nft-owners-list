@@ -1,3 +1,5 @@
+denysk.near|2023-09-11 08:23:31.788457+00|SUCCESS_VALUE|3|["alejandro.near", "jarednotjerry.near", "vikash.near", "pironi.near", "waverlymaven.near", "vincentcfpun.near", "tolmindev.near"]
+denysk.near|2023-09-11 08:19:58.495955+00|SUCCESS_VALUE|2|["blaze.near", "as.near", "kwhyc.near", "achildhoodhero.near", "yesn.near", "frol.near", "chefsale.near"]
 eschnoeckel.near|2023-09-11 07:59:15.438932+00|SUCCESS_VALUE|1|["eschnoeckel.near", "tiffany.near", "vlad.near", "vadim.near", "cryptocredit.near", "kennyj.near", "klint.near", "bearmans.near", "berynteoh.near", "frado.near", "derymars.near", "denbite.near", "psalm.near", "ogruss.near", "fritzwagner.near"]
 deniansha.near|2023-09-11 07:00:20.975772+00|SUCCESS_VALUE|1|["derymars.near"]
 fornears.near|2023-09-11 06:45:33.523442+00|SUCCESS_VALUE|3|["yourdad.near", "manchutsca.near", "vikash.near", "blessedchidi.near", "sallymg.near", "pironi.near", "williamxx.near"]
