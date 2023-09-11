@@ -1,3 +1,4 @@
+xsb.near|2023-09-11 06:05:25.244898+00|SUCCESS_VALUE|3|["cryptois.near", "alejandro.near"]
 xsb.near|2023-09-11 06:03:11.074481+00|SUCCESS_VALUE|1|["louisliu.near"]
 wayawa.near|2023-09-11 05:30:05.379502+00|SUCCESS_VALUE|1|["louisliu.near"]
 tutmt.near|2023-09-11 04:32:11.359573+00|SUCCESS_VALUE|3|["manchutsca.near", "williamxx.near", "rahulgoel.near", "danieldao.near", "johanga108.near", "kriptoraptor.near"]
