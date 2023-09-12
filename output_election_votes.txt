@@ -1,3 +1,5 @@
+b52b2637e80e864829aee8b5e90454655c926f926cfb54b92790c9a7fcb13c6c|2023-09-12 17:49:44.91883+00|SUCCESS_VALUE|2|["ahsas.near", "techdir.near", "reespect.near", "frol.near", "evangel.near", "iamanansari.near", "as.near"]
+klarakopi.near|2023-09-12 17:45:52.806047+00|SUCCESS_VALUE|2|["blaze.near", "ndcplug.near", "ahsas.near", "jlw.near", "izcc.near", "gagdiez.near", "jgold.near"]
 klarakopi.near|2023-09-12 17:14:40.152105+00|SUCCESS_VALUE|1|["chloe.near", "vandal.near", "mob.near", "frado.near", "wizzow.near", "fritzwagner.near", "whendacha.near", "monish016.near", "sahilmassey.near", "dedeukwu.near", "guaschingmachines.near", "klint.near", "cryptocredit.near", "rileytran.near", "tiffany.near"]
 humanman.near|2023-09-12 16:37:15.302284+00|SUCCESS_VALUE|3|["yourdad.near", "jarednotjerry.near", "cryptois.near", "vincentcfpun.near"]
 luzmargaritas.near|2023-09-12 15:23:20.146854+00|SUCCESS_VALUE|3|["alejandro.near", "pironi.near", "waverlymaven.near", "ramgor.near", "vikash.near", "sallymg.near", "escobarindo.near"]
