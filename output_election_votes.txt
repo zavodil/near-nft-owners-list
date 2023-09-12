@@ -1,3 +1,4 @@
+ganeshjaat.near|2023-09-12 14:38:04.011739+00|SUCCESS_VALUE|1|["dk_51.near", "whendacha.near", "rexux.near", "denbite.near", "vadim.near"]
 klint.near|2023-09-12 14:27:14.964233+00|SUCCESS_VALUE|1|["whendacha.near"]
 logunov.near|2023-09-12 14:23:15.603907+00|SUCCESS_VALUE|3|["tolmindev.near", "alejandro.near", "arezhas.near", "aurorafinance1.near", "danieldao.near", "waverlymaven.near", "vikash.near"]
 skycheong.near|2023-09-12 14:11:59.716366+00|SUCCESS_VALUE|2|["nearkat.near"]
