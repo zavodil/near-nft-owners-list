@@ -1,3 +1,5 @@
+neilrankin.near|2023-09-12 15:00:42.26218+00|SUCCESS_VALUE|2|["achildhoodhero.near", "joespano.near", "ahsas.near", "mattlock.near", "iamanansari.near", "983dcdc8e0d80d1f8938118161e1ec08be6557809afccd5ec396354f28a2ce78", "kwhyc.near"]
+neilrankin.near|2023-09-12 14:58:13.258369+00|SUCCESS_VALUE|1|["cameron.near", "vandal.near", "alan777.near", "kennyj.near", "odins_eyehole.near", "wizzow.near", "davidweinstein.near", "dleer.near", "haenko.near", "louisliu.near", "nguyencuong.near", "web3hedge.near", "kiskesis.near", "tiffany.near", "berynteoh.near"]
 piggins.near|2023-09-12 14:56:51.265869+00|SUCCESS_VALUE|3|["pironi.near", "yourdad.near", "waverlymaven.near", "rektdegen.near", "crans.near"]
 piggins.near|2023-09-12 14:52:00.296512+00|SUCCESS_VALUE|2|["chefsale.near", "ndcplug.near", "bennyblanco.near", "jlw.near", "joespano.near", "yesn.near", "blaze.near"]
 ganeshjaat.near|2023-09-12 14:45:14.470002+00|SUCCESS_VALUE|3|["johanga108.near", "yashank.near", "yonota.near", "vikash.near", "rahulgoel.near", "izubair.near", "moska.near"]
