@@ -1,3 +1,4 @@
+thanhtuthtp111.near|2023-09-12 06:38:53.258115+00|SUCCESS_VALUE|1|["louisliu.near", "auroracfo.near", "odins_eyehole.near", "whendacha.near", "tutmt.near", "fritzwagner.near", "haenko.near", "cameron.near", "kennyj.near", "gcohen.near", "klint.near", "ntrucchinh.near", "sahilmassey.near", "bearmans.near", "masterofcode.near"]
 masterofcode.near|2023-09-12 05:56:13.309318+00|SUCCESS_VALUE|2|["techdir.near", "ahsas.near", "frol.near", "as.near", "rubycop.near", "iamanansari.near", "evangel.near"]
 e4060aba1189b5d2512d3380b78294b4fcba8fd3b97c1244822aec57b8c2554b|2023-09-12 05:15:16.485902+00|SUCCESS_VALUE|2|["as.near"]
 e4060aba1189b5d2512d3380b78294b4fcba8fd3b97c1244822aec57b8c2554b|2023-09-12 05:10:35.37431+00|SUCCESS_VALUE|3|["escobarindo.near"]
