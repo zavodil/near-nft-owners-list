@@ -1,3 +1,4 @@
+cacossio.near|2023-09-12 03:44:08.741544+00|SUCCESS_VALUE|1|["luciotato.near", "davletuner.near", "chloe.near", "fritzwagner.near", "alan777.near", "ogruss.near", "iamgalt.near", "cameron.near", "p3ter.near", "vlad.near", "woben.near"]
 tigendut.near|2023-09-12 03:37:54.65553+00|SUCCESS_VALUE|3|["cryptois.near"]
 tigendut.near|2023-09-12 03:35:56.342531+00|SUCCESS_VALUE|2|["as.near"]
 tigendut.near|2023-09-12 03:34:46.100606+00|SUCCESS_VALUE|1|["derymars.near", "wizzow.near"]
