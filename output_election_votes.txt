@@ -1,3 +1,4 @@
+jahzone.near|2023-09-13 03:14:01.218923+00|SUCCESS_VALUE|3|["blessedchidi.near", "crans.near", "abdulkareem.near", "williamxx.near", "rahulgoel.near", "larkim.near", "vincentcfpun.near"]
 jahzone.near|2023-09-13 02:58:46.635818+00|SUCCESS_VALUE|2|["reespect.near", "sammiee1.near", "blaze.near", "antmarshall360.near", "flame1.near", "alphaflexhub.near", "iamanansari.near"]
 jjyuan.near|2023-09-12 23:33:37.601834+00|SUCCESS_VALUE|3|["alejandro.near", "jarednotjerry.near", "yourdad.near"]
 jjyuan.near|2023-09-12 23:32:11.820448+00|SUCCESS_VALUE|2|["blaze.near", "marieke.near", "ndcplug.near", "mattlock.near", "as.near"]
