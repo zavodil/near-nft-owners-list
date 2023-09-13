@@ -1,3 +1,4 @@
+kennethjay.near|2023-09-13 15:07:43.974746+00|SUCCESS_VALUE|2|["kennethjay.near", "alphaflexhub.near", "flame1.near"]
 cotmusic.near|2023-09-13 14:26:37.500813+00|SUCCESS_VALUE|2|["reespect.near", "alphaflexhub.near", "marieke.near", "kwhyc.near", "duocelot.near", "sammiee1.near", "ndcplug.near"]
 cotmusic.near|2023-09-13 14:24:01.329288+00|SUCCESS_VALUE|1|["earnestetim.near", "frado.near", "guaschingmachines.near", "monish016.near", "fritzwagner.near", "vandal.near", "dedeukwu.near", "psalm.near", "wizzow.near", "ogruss.near", "chloe.near", "sahilmassey.near", "igboze_builder.near"]
 ecbfd406a37b982ffa5f08a8bcef5c443c9c52e80bc78fb88bb600afd43d5d33|2023-09-13 13:54:48.894724+00|SUCCESS_VALUE|2|["ahsas.near"]
