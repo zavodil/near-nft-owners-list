@@ -1,3 +1,4 @@
+cryptogarik.near|2023-09-14 19:06:03.231489+00|SUCCESS_VALUE|2|["frol.near", "rubycop.near", "ahsas.near", "techdir.near", "evangel.near", "jgold.near", "as.near"]
 miniwaxx.near|2023-09-14 19:01:58.713929+00|SUCCESS_VALUE|2|["techdir.near", "rubycop.near", "ahsas.near", "evangel.near", "as.near", "frol.near", "iamanansari.near"]
 cryptogarik.near|2023-09-14 18:58:18.583554+00|SUCCESS_VALUE|3|["alejandro.near", "yourdad.near", "yonota.near", "johanga108.near", "moska.near", "tolmindev.near", "maks1mk_a.near"]
 connect-to-anything.near|2023-09-14 18:58:13.29317+00|SUCCESS_VALUE|2|["as.near", "ahsas.near", "kangaroojack.near", "kwhyc.near", "ndcplug.near", "yesn.near", "joespano.near"]
