@@ -1,3 +1,4 @@
+primaveralina.near|2023-09-14 13:11:29.167764+00|SUCCESS_VALUE|2|["rubycop.near", "ndcplug.near", "frol.near", "marieke.near", "mattlock.near", "yesn.near", "kwhyc.near"]
 primaveralina.near|2023-09-14 13:02:40.221068+00|SUCCESS_VALUE|1|["vlad.near", "gcohen.near", "iamgalt.near", "odins_eyehole.near", "haenko.near", "denbite.near", "kennyj.near", "thisthatjosh.near", "mob.near", "kelsontoh.near", "cameron.near", "cronus.near", "chloe.near", "woben.near", "vadim.near"]
 aldrich.near|2023-09-14 12:07:52.771929+00|SUCCESS_VALUE|3|["waverlymaven.near", "vincentcfpun.near"]
 aldrich.near|2023-09-14 12:03:54.475561+00|SUCCESS_VALUE|1|["gcohen.near"]
