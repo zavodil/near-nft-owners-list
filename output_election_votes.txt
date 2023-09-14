@@ -1,3 +1,6 @@
+monkeydu.near|2023-09-14 06:22:05.234367+00|SUCCESS_VALUE|3|["izubair.near", "vikash.near", "yourdad.near", "rahulgoel.near", "yashank.near"]
+monkeydu.near|2023-09-14 06:20:34.606136+00|SUCCESS_VALUE|2|["kumarkrsronit.near", "alphaflexhub.near", "ahsas.near", "flame1.near", "iamanansari.near"]
+monkeydu.near|2023-09-14 06:18:48.904736+00|SUCCESS_VALUE|1|["dk_51.near", "psalm.near", "rexux.near", "whendacha.near"]
 events.near|2023-09-14 05:52:26.18704+00|SUCCESS_VALUE|3|["vincentcfpun.near", "waverlymaven.near"]
 vincentcfpun.near|2023-09-14 05:47:52.879084+00|SUCCESS_VALUE|3|["vincentcfpun.near", "waverlymaven.near"]
 trendheo.near|2023-09-14 05:30:05.586051+00|SUCCESS_VALUE|3|["vikash.near", "manchutsca.near", "andersonr.near", "danieldao.near", "waverlymaven.near", "rektdegen.near", "moska.near"]
