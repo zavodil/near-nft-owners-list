@@ -1,3 +1,4 @@
+eeedo.near|2023-09-14 10:05:42.015549+00|SUCCESS_VALUE|2|["mattlock.near", "frol.near", "as.near"]
 938c83fcf90350e4e5ad7f1a802d3db742718e194efbc77cf5a250742f61aeb9|2023-09-14 09:43:02.48652+00|SUCCESS_VALUE|3|["arezhas.near", "rahulgoel.near", "escobarindo.near", "alejandro.near", "yourdad.near", "jarednotjerry.near", "vikash.near"]
 938c83fcf90350e4e5ad7f1a802d3db742718e194efbc77cf5a250742f61aeb9|2023-09-14 09:36:40.498102+00|SUCCESS_VALUE|2|["kangaroojack.near", "bennyblanco.near", "blaze.near", "joespano.near", "achildhoodhero.near", "alyonushka.near", "marieke.near"]
 938c83fcf90350e4e5ad7f1a802d3db742718e194efbc77cf5a250742f61aeb9|2023-09-14 09:27:35.671773+00|SUCCESS_VALUE|1|["chloe.near", "dleer.near", "odins_eyehole.near", "web3hedge.near", "davletuner.near", "ogruss.near"]
