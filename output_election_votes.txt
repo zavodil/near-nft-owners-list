@@ -1,3 +1,4 @@
+neducosmas.near|2023-09-14 15:53:21.039951+00|SUCCESS_VALUE|1|["dedeukwu.near", "igboze_builder.near", "dk_51.near", "chloe.near", "whendacha.near", "kennyj.near", "bearmans.near", "cryptocredit.near", "tiffany.near", "earnestetim.near", "rexux.near", "masterofcode.near", "kemo.near", "frado.near", "guaschingmachines.near"]
 babych.near|2023-09-14 15:32:13.235592+00|SUCCESS_VALUE|3|["jarednotjerry.near", "alejandro.near", "cjpd.near", "moska.near", "cryptois.near", "pironi.near", "nftmuse.near"]
 babych.near|2023-09-14 15:30:55.756917+00|SUCCESS_VALUE|2|["yesn.near", "ndcplug.near", "rubycop.near", "mattlock.near", "marieke.near", "kwhyc.near", "frol.near"]
 babych.near|2023-09-14 15:29:41.15964+00|SUCCESS_VALUE|1|["kelsontoh.near", "vlad.near", "odins_eyehole.near", "cameron.near", "thisthatjosh.near", "woben.near", "vadim.near", "chloe.near", "kennyj.near", "iamgalt.near", "haenko.near", "denbite.near", "mob.near", "gcohen.near", "cronus.near"]
