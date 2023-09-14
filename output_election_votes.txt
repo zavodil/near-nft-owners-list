@@ -1,3 +1,4 @@
+dmitriyhellyeah.near|2023-09-14 14:52:45.490282+00|SUCCESS_VALUE|1|["iamgalt.near"]
 carolin.near|2023-09-14 14:50:53.316258+00|SUCCESS_VALUE|3|["alejandro.near", "jarednotjerry.near"]
 carolin.near|2023-09-14 14:49:10.827058+00|SUCCESS_VALUE|1|["vlad.near", "davidweinstein.near", "vadim.near", "p3ter.near", "iamgalt.near"]
 carolin.near|2023-09-14 14:46:29.583181+00|SUCCESS_VALUE|2|["marieke.near", "yesn.near", "kwhyc.near", "joespano.near"]
