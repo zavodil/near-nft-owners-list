@@ -1,3 +1,4 @@
+jiang_wei.near|2023-09-14 02:09:12.538438+00|SUCCESS_VALUE|2|["nearkat.near", "as.near", "marieke.near", "robert.near", "achildhoodhero.near"]
 thanhtuthtp111.near|2023-09-14 00:04:47.595994+00|SUCCESS_VALUE|3|["yourdad.near", "alejandro.near", "aurorafinance1.near", "manchutsca.near", "crans.near", "danieldao.near", "waverlymaven.near"]
 oct-stake.near|2023-09-14 00:04:16.674672+00|SUCCESS_VALUE|3|["cryptois.near", "alejandro.near"]
 oct-stake.near|2023-09-14 00:02:55.354252+00|SUCCESS_VALUE|2|["mattlock.near", "as.near", "nearkat.near", "marieke.near"]
