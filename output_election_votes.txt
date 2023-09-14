@@ -1,3 +1,5 @@
+arturoadelante.near|2023-09-14 17:38:06.720726+00|SUCCESS_VALUE|2|["jloc.near", "harveys.near", "izcc.near"]
+arturoadelante.near|2023-09-14 17:34:55.1373+00|SUCCESS_VALUE|1|["luciotato.near", "fritzwagner.near", "alan777.near", "kemo.near"]
 lifeofyurii.near|2023-09-14 17:23:40.332349+00|SUCCESS_VALUE|3|["jarednotjerry.near", "alejandro.near", "cjpd.near", "cryptois.near", "pironi.near", "nftmuse.near", "moska.near"]
 lifeofyurii.near|2023-09-14 17:21:17.842526+00|SUCCESS_VALUE|2|["yesn.near", "ndcplug.near", "rubycop.near", "mattlock.near", "marieke.near", "frol.near", "kwhyc.near"]
 lifeofyurii.near|2023-09-14 17:16:01.865445+00|SUCCESS_VALUE|1|["mob.near", "gcohen.near", "kelsontoh.near", "chloe.near", "woben.near", "cronus.near", "haenko.near", "kennyj.near", "iamgalt.near", "denbite.near", "cameron.near", "vadim.near", "vlad.near", "thisthatjosh.near"]
