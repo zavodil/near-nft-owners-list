@@ -1,3 +1,4 @@
+dachi.near|2023-09-15 11:52:20.620152+00|SUCCESS_VALUE|1|["dedeukwu.near", "vandal.near", "guaschingmachines.near", "fritzwagner.near", "frado.near", "igboze_builder.near", "ogruss.near", "sahilmassey.near", "monish016.near", "wizzow.near", "psalm.near"]
 skycheong.near|2023-09-15 11:43:47.199038+00|SUCCESS_VALUE|1|["woben.near"]
 itksyndicate.near|2023-09-15 11:32:47.162731+00|SUCCESS_VALUE|1|["kelsontoh.near", "kennyj.near", "odins_eyehole.near", "haenko.near", "iamgalt.near", "woben.near", "thisthatjosh.near", "vlad.near", "cameron.near", "denbite.near", "chloe.near", "gcohen.near", "mob.near", "davidweinstein.near", "rileytran.near"]
 serezhaolshan.near|2023-09-15 11:23:38.844958+00|SUCCESS_VALUE|3|["manutegus.near", "vincentcfpun.near", "arezhas.near", "ramgor.near", "andersonr.near", "yonota.near", "manchutsca.near"]
