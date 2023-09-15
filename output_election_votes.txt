@@ -1,3 +1,4 @@
+chloe.near|2023-09-15 14:38:12.560725+00|SUCCESS_VALUE|1|["mob.near", "luciotato.near", "vlad.near", "p3ter.near", "woben.near", "davletuner.near", "chloe.near", "vadim.near", "whendacha.near", "vandal.near", "cameron.near", "earnestetim.near", "haenko.near", "tiffany.near", "odins_eyehole.near"]
 max_one.near|2023-09-15 14:06:56.910837+00|SUCCESS_VALUE|2|["as.near", "iamanansari.near", "ahsas.near", "alyonushka.near"]
 max_one.near|2023-09-15 13:58:23.388043+00|SUCCESS_VALUE|1|["derymars.near", "whendacha.near", "wizzow.near", "alan777.near", "rexux.near", "psalm.near", "web3hedge.near", "dk_51.near", "davletuner.near", "luciotato.near"]
 max_one.near|2023-09-15 13:53:41.945814+00|SUCCESS_VALUE|3|["rahulgoel.near", "izubair.near", "escobarindo.near", "rektdegen.near", "johanga108.near"]
