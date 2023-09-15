@@ -1,3 +1,4 @@
+pidturkina.near|2023-09-15 18:03:52.061733+00|SUCCESS_VALUE|3|["vikash.near", "kriptoraptor.near", "yourdad.near", "moska.near", "alejandro.near", "rahulgoel.near", "pironi.near"]
 pidturkina.near|2023-09-15 18:02:20.711284+00|SUCCESS_VALUE|2|["as.near", "nearkat.near", "evangel.near", "kangaroojack.near", "mattlock.near", "ahsas.near", "marieke.near"]
 pidturkina.near|2023-09-15 17:59:29.178116+00|SUCCESS_VALUE|1|["gcohen.near", "vadim.near", "kiskesis.near", "vlad.near", "iamgalt.near", "masterofcode.near", "kazanderdad.near"]
 peterpal_p.near|2023-09-15 17:15:53.018203+00|SUCCESS_VALUE|3|["rektdegen.near", "vikash.near", "escobarindo.near"]
