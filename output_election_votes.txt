@@ -1,3 +1,4 @@
+bild96.near|2023-09-15 21:24:18.736069+00|SUCCESS_VALUE|3|["escobarindo.near", "danieldao.near", "crans.near", "sallymg.near", "jarednotjerry.near", "cjpd.near", "rektdegen.near"]
 bild96.near|2023-09-15 21:21:50.938919+00|SUCCESS_VALUE|2|["blaze.near", "reespect.near", "sammiee1.near", "bishi.near", "chefsale.near", "keyokey.near", "achildhoodhero.near"]
 bild96.near|2023-09-15 21:18:24.083378+00|SUCCESS_VALUE|1|["dk_51.near", "dleer.near", "alan777.near", "vlad.near", "cryptocredit.near", "luciotato.near", "whendacha.near", "kiskesis.near", "ugxnear.near", "derymars.near", "p3ter.near", "dedeukwu.near", "berynteoh.near", "haenko.near", "web3hedge.near"]
 roberta_abinader.near|2023-09-15 21:14:23.079174+00|SUCCESS_VALUE|3|["andersonr.near", "crans.near", "williamxx.near", "johanga108.near"]
