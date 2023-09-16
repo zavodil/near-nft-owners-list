@@ -1,3 +1,4 @@
+pkg.near|2023-09-16 02:32:05.796127+00|SUCCESS_VALUE|1|["vadim.near", "gcohen.near", "woben.near", "louisliu.near", "web3hedge.near", "mob.near", "whendacha.near", "tiffany.near", "vlad.near", "haenko.near", "eschnoeckel.near", "kiskesis.near", "vandal.near", "rexux.near", "dleer.near"]
 baxoff.near|2023-09-15 22:06:46.327823+00|SUCCESS_VALUE|2|["ilerik.near", "alyonushka.near", "evangel.near", "bishi.near", "as.near", "rubycop.near", "techdir.near"]
 baxoff.near|2023-09-15 22:03:53.383316+00|SUCCESS_VALUE|1|["lolson.near", "vadim.near", "cronus.near", "whendacha.near", "haenko.near", "kiskesis.near", "vlad.near", "maxkott.near", "ogruss.near", "dk_51.near", "mob.near", "denbite.near", "davletuner.near", "rexux.near", "tiffany.near"]
 bild96.near|2023-09-15 21:24:18.736069+00|SUCCESS_VALUE|3|["escobarindo.near", "danieldao.near", "crans.near", "sallymg.near", "jarednotjerry.near", "cjpd.near", "rektdegen.near"]
