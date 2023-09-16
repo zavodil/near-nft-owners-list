@@ -1,3 +1,7 @@
+5ba4374d0b1c14bedb503f4900e55a7b6537bd601438948da6b771df1e5d0615|2023-09-16 18:33:22.905405+00|SUCCESS_VALUE|1|["haenko.near", "auroracfo.near", "vadim.near", "dk_51.near", "vlad.near", "kiskesis.near", "rexux.near", "lolson.near", "maxkott.near", "davletuner.near", "odins_eyehole.near", "masterofcode.near", "whendacha.near", "psalm.near", "mob.near"]
+vinod69.near|2023-09-16 18:33:03.302496+00|SUCCESS_VALUE|3|["vikash.near", "izubair.near", "johanga108.near", "yashank.near", "rahulgoel.near", "waverlymaven.near"]
+vinod69.near|2023-09-16 18:29:33.78463+00|SUCCESS_VALUE|2|["alyonushka.near", "iamanansari.near", "kumarkrsronit.near", "flame1.near", "alphaflexhub.near", "as.near", "antmarshall360.near"]
+vinod69.near|2023-09-16 18:26:29.086097+00|SUCCESS_VALUE|1|["whendacha.near", "psalm.near", "tutmt.near", "vadim.near", "planetaworld.near", "vlad.near", "klint.near", "dk_51.near", "rexux.near", "monish016.near"]
 macarli.near|2023-09-16 18:12:48.695701+00|SUCCESS_VALUE|3|["izubair.near", "rahulgoel.near", "vikash.near", "johanga108.near", "yashank.near", "blessedchidi.near"]
 macarli.near|2023-09-16 18:09:55.810976+00|SUCCESS_VALUE|2|["flame1.near", "alphaflexhub.near", "iamanansari.near", "kumarkrsronit.near", "bishi.near", "kennethjay.near"]
 blckhntr.near|2023-09-16 18:07:30.42866+00|SUCCESS_VALUE|3|["kriptoraptor.near"]
