@@ -1,3 +1,4 @@
+skymage.near|2023-09-16 12:59:41.364054+00|SUCCESS_VALUE|3|["rahulgoel.near", "johanga108.near", "tolmindev.near", "yonota.near", "moska.near", "izubair.near", "christinas.near"]
 skymage.near|2023-09-16 12:54:55.08426+00|SUCCESS_VALUE|2|["rubycop.near", "iamanansari.near", "ahsas.near", "techdir.near", "evangel.near", "kangaroojack.near", "vianftbrasil.near"]
 skymage.near|2023-09-16 12:53:49.230684+00|SUCCESS_VALUE|1|["dk_51.near", "kiskesis.near", "auroracfo.near", "masterofcode.near", "denbite.near", "mob.near", "whendacha.near", "haenko.near", "rexux.near", "web3hedge.near", "lolson.near", "vadim.near", "tutmt.near", "gcohen.near", "davletuner.near"]
 haoxiang14.near|2023-09-16 12:22:17.781555+00|SUCCESS_VALUE|2|["nearkat.near", "harveys.near", "as.near", "ahsas.near"]
