@@ -1,3 +1,5 @@
+flame1.near|2023-09-16 18:51:33.54163+00|SUCCESS_VALUE|3|["vikash.near", "rahulgoel.near", "yourdad.near", "yashank.near", "johanga108.near", "izubair.near", "maks1mk_a.near"]
+flame1.near|2023-09-16 18:47:04.421263+00|SUCCESS_VALUE|2|["as.near", "kennethjay.near", "alphaflexhub.near", "iamanansari.near", "kumarkrsronit.near", "flame1.near"]
 5ba4374d0b1c14bedb503f4900e55a7b6537bd601438948da6b771df1e5d0615|2023-09-16 18:43:59.172707+00|SUCCESS_VALUE|3|["rahulgoel.near", "tolmindev.near", "johanga108.near", "izubair.near", "yonota.near", "yourdad.near", "moska.near"]
 flame1.near|2023-09-16 18:43:58.368415+00|SUCCESS_VALUE|1|["whendacha.near", "vadim.near", "dk_51.near", "planetaworld.near", "psalm.near", "kekiboh.near", "derymars.near", "rexux.near"]
 5ba4374d0b1c14bedb503f4900e55a7b6537bd601438948da6b771df1e5d0615|2023-09-16 18:38:21.700104+00|SUCCESS_VALUE|2|["frol.near", "rubycop.near", "as.near", "ahsas.near", "iamanansari.near", "techdir.near", "evangel.near"]
