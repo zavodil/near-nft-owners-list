@@ -1,3 +1,6 @@
+userdie.near|2023-09-17 18:40:37.798236+00|SUCCESS_VALUE|3|["yonota.near", "johanga108.near", "moska.near"]
+userdie.near|2023-09-17 18:39:23.12744+00|SUCCESS_VALUE|2|["evangel.near", "ahsas.near"]
+userdie.near|2023-09-17 18:37:46.318548+00|SUCCESS_VALUE|1|["whendacha.near", "vlad.near", "haenko.near", "kiskesis.near"]
 sebastianrosa.near|2023-09-17 18:32:50.210697+00|SUCCESS_VALUE|3|["rahulgoel.near", "kriptoraptor.near"]
 sebastianrosa.near|2023-09-17 18:30:45.689843+00|SUCCESS_VALUE|2|["harveys.near", "izcc.near"]
 sebastianrosa.near|2023-09-17 18:28:14.618599+00|SUCCESS_VALUE|1|["fritzwagner.near", "kemo.near", "luciotato.near", "alan777.near"]
