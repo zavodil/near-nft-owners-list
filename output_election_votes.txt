@@ -1,3 +1,5 @@
+liquidus.near|2023-09-17 19:36:44.21665+00|SUCCESS_VALUE|2|["alyonushka.near"]
+liquidus.near|2023-09-17 19:35:55.137239+00|SUCCESS_VALUE|1|["cronus.near"]
 yanchik2325.near|2023-09-17 19:21:11.8342+00|SUCCESS_VALUE|3|["johanga108.near", "yonota.near", "moska.near"]
 userdie.near|2023-09-17 18:40:37.798236+00|SUCCESS_VALUE|3|["yonota.near", "johanga108.near", "moska.near"]
 userdie.near|2023-09-17 18:39:23.12744+00|SUCCESS_VALUE|2|["evangel.near", "ahsas.near"]
