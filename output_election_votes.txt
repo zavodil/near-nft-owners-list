@@ -1,3 +1,8 @@
+nguyencuong.near|2023-09-17 04:30:51.561611+00|SUCCESS_VALUE|1|["nguyencuong.near", "dk_51.near", "louisliu.near", "derymars.near", "tutmt.near", "whendacha.near", "ntrucchinh.near", "fritzwagner.near", "vadim.near", "dedeukwu.near", "kiskesis.near", "iamgalt.near"]
+nguyencuong.near|2023-09-17 04:26:23.579319+00|SUCCESS_VALUE|2|["harveys.near", "as.near", "nearkat.near", "yesn.near", "achildhoodhero.near"]
+manchutsca.near|2023-09-17 04:25:33.448919+00|SUCCESS_VALUE|3|["rahulgoel.near", "manchutsca.near", "kriptoraptor.near", "alejandro.near", "williamxx.near", "danieldao.near", "ramgor.near"]
+manchutsca.near|2023-09-17 04:21:18.919553+00|SUCCESS_VALUE|2|["harveys.near", "as.near"]
+manchutsca.near|2023-09-17 04:18:15.639518+00|SUCCESS_VALUE|1|["ntrucchinh.near", "rexux.near", "derymars.near", "nguyencuong.near", "louisliu.near", "fritzwagner.near", "odins_eyehole.near", "vadim.near", "tutmt.near", "vlad.near", "dk_51.near", "igboze_builder.near", "luciotato.near", "whendacha.near", "cronus.near"]
 nftcreator777.near|2023-09-17 03:39:42.983095+00|SUCCESS_VALUE|3|["yourdad.near", "tolmindev.near", "yonota.near", "johanga108.near", "moska.near", "izubair.near", "vincentcfpun.near"]
 nftcreator777.near|2023-09-17 03:37:32.193049+00|SUCCESS_VALUE|2|["techdir.near", "evangel.near", "iamanansari.near", "rubycop.near", "as.near", "ahsas.near", "nearkat.near"]
 nftcreator777.near|2023-09-17 03:36:01.309066+00|SUCCESS_VALUE|1|["masterofcode.near", "whendacha.near", "vadim.near", "kiskesis.near", "haenko.near", "maxkott.near", "dk_51.near", "lolson.near", "vlad.near", "davletuner.near", "mob.near", "denbite.near", "rexux.near", "auroracfo.near", "gcohen.near"]
