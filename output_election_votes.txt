@@ -1,3 +1,5 @@
+sofiko22.near|2023-09-17 20:31:19.383336+00|SUCCESS_VALUE|3|["dabbie3229.near", "sallymg.near", "kriptoraptor.near", "moska.near", "vikash.near", "ntare.near", "rektdegen.near"]
+sofiko22.near|2023-09-17 20:27:48.343653+00|SUCCESS_VALUE|2|["robert.near", "evangel.near", "blaze.near", "rubycop.near", "jlw.near", "alyonushka.near", "marieke.near"]
 sofiko22.near|2023-09-17 20:25:16.435114+00|SUCCESS_VALUE|1|["ogruss.near", "cameron.near", "sahilmassey.near", "iamgalt.near", "psalm.near", "haenko.near", "kazanderdad.near", "kennyj.near", "davidweinstein.near", "luciotato.near", "lolson.near", "kelsontoh.near", "kiskesis.near", "kemo.near", "derymars.near"]
 mairysarmanho.near|2023-09-17 20:05:36.50624+00|SUCCESS_VALUE|3|["aurorafinance1.near"]
 neer.near|2023-09-17 20:00:44.130603+00|SUCCESS_VALUE|3|["johanga108.near", "moska.near", "yourdad.near", "rahulgoel.near", "yonota.near", "izubair.near", "rektdegen.near"]
