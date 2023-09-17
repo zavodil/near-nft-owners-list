@@ -1,3 +1,4 @@
+sofiko22.near|2023-09-17 20:25:16.435114+00|SUCCESS_VALUE|1|["ogruss.near", "cameron.near", "sahilmassey.near", "iamgalt.near", "psalm.near", "haenko.near", "kazanderdad.near", "kennyj.near", "davidweinstein.near", "luciotato.near", "lolson.near", "kelsontoh.near", "kiskesis.near", "kemo.near", "derymars.near"]
 mairysarmanho.near|2023-09-17 20:05:36.50624+00|SUCCESS_VALUE|3|["aurorafinance1.near"]
 neer.near|2023-09-17 20:00:44.130603+00|SUCCESS_VALUE|3|["johanga108.near", "moska.near", "yourdad.near", "rahulgoel.near", "yonota.near", "izubair.near", "rektdegen.near"]
 4466752245676eb6f64cbcf8e1343e416e586a4930bf84568d342d8eb48b8d68|2023-09-17 20:00:07.194024+00|SUCCESS_VALUE|3|["blessedchidi.near", "moska.near", "yourdad.near", "johanga108.near", "rahulgoel.near", "yonota.near", "izubair.near"]
