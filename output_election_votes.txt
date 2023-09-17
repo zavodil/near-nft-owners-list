@@ -1,3 +1,4 @@
+jilt.near|2023-09-17 13:44:02.954931+00|SUCCESS_VALUE|1|["vlad.near", "haenko.near"]
 abbakaka.near|2023-09-17 13:18:27.984793+00|SUCCESS_VALUE|3|["johanga108.near", "ramgor.near", "dabbie3229.near", "yourdad.near", "alejandro.near", "jarednotjerry.near", "izubair.near"]
 abbakaka.near|2023-09-17 13:16:02.910666+00|SUCCESS_VALUE|2|["iamanansari.near", "evangel.near", "techdir.near", "as.near", "blaze.near", "frol.near", "reespect.near"]
 81423b2d389fbf3f73ba45e3b62dcc1fdd37cea2d0d383806fdc687822fdb8a6|2023-09-17 11:41:23.373523+00|SUCCESS_VALUE|1|["whendacha.near", "vadim.near", "kiskesis.near", "haenko.near", "maxkott.near", "dk_51.near", "lolson.near", "vlad.near", "davletuner.near", "mob.near", "denbite.near", "rexux.near", "auroracfo.near", "masterofcode.near", "web3hedge.near"]
