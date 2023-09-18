@@ -1,3 +1,4 @@
+8366e0b555702e20f2101e052a9e9165edf6dff486219f0714c28ee20f06324d|2023-09-18 18:34:44.616457+00|SUCCESS_VALUE|1|["luciotato.near", "alan777.near"]
 brianmai.near|2023-09-18 18:11:23.052236+00|SUCCESS_VALUE|1|["alan777.near", "luciotato.near"]
 ogaarinze.near|2023-09-18 18:10:59.471806+00|SUCCESS_VALUE|3|["nftmuse.near", "williamxx.near", "blessedchidi.near", "abdulkareem.near", "danieldao.near", "ramgor.near", "pironi.near"]
 ogaarinze.near|2023-09-18 18:06:13.684343+00|SUCCESS_VALUE|2|["reespect.near", "as.near", "marieke.near", "chefsale.near", "izcc.near", "jgold.near", "kumarkrsronit.near"]
