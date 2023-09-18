@@ -1,3 +1,5 @@
+bardd.near|2023-09-18 07:32:09.123962+00|SUCCESS_VALUE|2|["as.near", "techdir.near", "evangel.near", "iamanansari.near", "rubycop.near", "ahsas.near", "frol.near"]
+bardd.near|2023-09-18 07:26:41.467363+00|SUCCESS_VALUE|3|["yonota.near", "yourdad.near", "tolmindev.near", "izubair.near", "johanga108.near", "moska.near", "rahulgoel.near"]
 amazingbeerbelly.near|2023-09-18 06:04:32.636774+00|SUCCESS_VALUE|3|["waverlymaven.near", "vincentcfpun.near"]
 amazingbeerbelly.near|2023-09-18 06:02:16.076735+00|SUCCESS_VALUE|1|["gcohen.near"]
 amazingbeerbelly.near|2023-09-18 06:00:33.397437+00|SUCCESS_VALUE|2|["nearkat.near"]
