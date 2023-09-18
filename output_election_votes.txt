@@ -1,3 +1,4 @@
+700f9da36d1eb02a7628b3b71c26bed6f4a8b00d802ea869c51e49925d2439d1|2023-09-18 17:28:37.033995+00|SUCCESS_VALUE|3|["moska.near", "johanga108.near", "rahulgoel.near", "yourdad.near", "tolmindev.near", "yonota.near", "izubair.near"]
 700f9da36d1eb02a7628b3b71c26bed6f4a8b00d802ea869c51e49925d2439d1|2023-09-18 17:27:19.995282+00|SUCCESS_VALUE|2|["as.near", "iamanansari.near", "rubycop.near", "frol.near", "evangel.near", "techdir.near", "ahsas.near"]
 700f9da36d1eb02a7628b3b71c26bed6f4a8b00d802ea869c51e49925d2439d1|2023-09-18 17:25:55.444362+00|SUCCESS_VALUE|1|["vadim.near", "maxkott.near", "odins_eyehole.near", "denbite.near", "psalm.near", "rexux.near", "lolson.near", "davletuner.near", "mob.near", "haenko.near", "auroracfo.near", "kiskesis.near", "whendacha.near", "dk_51.near", "vlad.near"]
 bilibili.near|2023-09-18 17:15:05.841941+00|SUCCESS_VALUE|3|["vincentcfpun.near", "waverlymaven.near", "tolmindev.near", "pironi.near", "rektdegen.near", "ntare.near", "cjpd.near"]
