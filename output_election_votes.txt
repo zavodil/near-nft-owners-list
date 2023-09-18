@@ -1,3 +1,5 @@
+kudoshinichi.near|2023-09-18 02:11:11.734094+00|SUCCESS_VALUE|3|["danieldao.near", "vincentcfpun.near", "larkim.near", "christinas.near", "crans.near", "sallymg.near", "vikash.near"]
+kudoshinichi.near|2023-09-18 02:08:40.319207+00|SUCCESS_VALUE|2|["yesn.near", "chefsale.near", "as.near", "marieke.near", "mattlock.near", "nearkat.near", "keyokey.near"]
 wangbadan.near|2023-09-18 00:53:25.423182+00|SUCCESS_VALUE|3|["aurorafinance1.near", "vincentcfpun.near", "alejandro.near", "sallymg.near", "manchutsca.near", "waverlymaven.near", "cryptois.near"]
 wangbadan.near|2023-09-18 00:49:36.093358+00|SUCCESS_VALUE|1|["louisliu.near", "cronus.near", "woben.near", "cameron.near", "gcohen.near", "p3ter.near", "bearmans.near", "guaschingmachines.near", "rexux.near", "kennyj.near", "rileytran.near", "tiffany.near", "web3hedge.near", "kelsontoh.near", "sahilmassey.near"]
 wangbadan.near|2023-09-18 00:45:46.725543+00|SUCCESS_VALUE|2|["nearkat.near", "as.near", "yesn.near", "mattlock.near", "ahsas.near", "rubycop.near", "marieke.near"]
