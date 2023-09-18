@@ -1,3 +1,4 @@
+jen.near|2023-09-18 20:18:05.394558+00|SUCCESS_VALUE|2|["blaze.near", "robert.near", "kangaroojack.near", "marieke.near", "jlw.near", "kwhyc.near", "yesn.near"]
 isho.near|2023-09-18 20:12:43.906099+00|SUCCESS_VALUE|3|["crans.near", "yourdad.near", "yonota.near", "escobarindo.near", "cjpd.near", "johanga108.near", "maks1mk_a.near"]
 isho.near|2023-09-18 20:11:05.265882+00|SUCCESS_VALUE|2|["keyokey.near", "jlw.near", "rubycop.near", "as.near", "bishi.near", "evangel.near", "frol.near"]
 isho.near|2023-09-18 20:08:17.064897+00|SUCCESS_VALUE|1|["iamgalt.near", "haenko.near", "vadim.near", "kiskesis.near", "odins_eyehole.near", "vlad.near", "cronus.near", "masterofcode.near", "planetaworld.near", "mob.near", "auroracfo.near", "dleer.near", "maxkott.near", "kennyj.near", "davidweinstein.near"]
