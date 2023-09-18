@@ -1,3 +1,8 @@
+dtop13.near|2023-09-18 03:33:02.26145+00|SUCCESS_VALUE|2|["marieke.near", "robert.near", "as.near", "gagdiez.near", "ahsas.near"]
+kzwww.near|2023-09-18 03:21:10.664082+00|SUCCESS_VALUE|3|["cryptois.near", "rektdegen.near"]
+kzwww.near|2023-09-18 03:20:28.407996+00|SUCCESS_VALUE|2|["harveys.near"]
+kzwww.near|2023-09-18 03:19:14.281593+00|SUCCESS_VALUE|1|["fritzwagner.near", "louisliu.near", "berynteoh.near", "whendacha.near", "kelsontoh.near", "web3hedge.near"]
+dtop13.near|2023-09-18 03:18:48.54347+00|SUCCESS_VALUE|1|["rileytran.near", "bearmans.near", "chloe.near", "cameron.near"]
 titicaca.near|2023-09-18 02:59:27.503431+00|SUCCESS_VALUE|3|["waverlymaven.near", "vincentcfpun.near", "cryptois.near"]
 titicaca.near|2023-09-18 02:56:04.198866+00|SUCCESS_VALUE|2|["nearkat.near"]
 titicaca.near|2023-09-18 02:53:29.143618+00|SUCCESS_VALUE|1|["louisliu.near", "gcohen.near"]
