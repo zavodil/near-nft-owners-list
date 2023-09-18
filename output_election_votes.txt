@@ -1,3 +1,4 @@
+vadim.near|2023-09-18 21:40:27.673822+00|SUCCESS_VALUE|2|["evangel.near", "iamanansari.near", "rubycop.near", "as.near", "ahsas.near", "frol.near", "techdir.near"]
 vadim.near|2023-09-18 21:36:57.342016+00|SUCCESS_VALUE|1|["woben.near", "web3hedge.near", "cronus.near", "lolson.near", "denbite.near", "auroracfo.near", "maxkott.near", "davletuner.near", "rexux.near", "kiskesis.near", "mob.near", "vlad.near", "dk_51.near", "haenko.near", "whendacha.near"]
 blaze.near|2023-09-18 20:46:13.863439+00|SUCCESS_VALUE|3|["pironi.near", "jarednotjerry.near", "rektdegen.near", "cjpd.near", "cryptois.near", "dabbie3229.near", "arezhas.near"]
 blaze.near|2023-09-18 20:39:49.051768+00|SUCCESS_VALUE|1|["davletuner.near", "rileytran.near", "iamgalt.near", "chloe.near", "luciotato.near", "web3hedge.near", "davidweinstein.near", "gcohen.near", "odins_eyehole.near", "mob.near", "cameron.near", "dleer.near", "louisliu.near", "woben.near", "salikc9.near"]
