@@ -1,3 +1,5 @@
+vlad.near|2023-09-19 00:31:18.990038+00|SUCCESS_VALUE|2|["kwhyc.near", "mattlock.near", "chefsale.near", "frol.near", "jgold.near", "as.near", "ahsas.near"]
+vlad.near|2023-09-19 00:29:00.516137+00|SUCCESS_VALUE|3|["tolmindev.near", "pironi.near", "alejandro.near", "rektdegen.near", "yourdad.near", "izubair.near", "moska.near"]
 lenardgarcia.near|2023-09-19 00:03:47.395127+00|SUCCESS_VALUE|3|["rahulgoel.near", "izubair.near", "yonota.near", "moska.near", "yourdad.near", "johanga108.near", "escobarindo.near"]
 lenardgarcia.near|2023-09-19 00:02:28.846455+00|SUCCESS_VALUE|2|["evangel.near", "iamanansari.near", "as.near", "techdir.near", "ahsas.near", "rubycop.near", "983dcdc8e0d80d1f8938118161e1ec08be6557809afccd5ec396354f28a2ce78"]
 lenardgarcia.near|2023-09-19 00:01:16.02038+00|SUCCESS_VALUE|1|["vlad.near", "denbite.near", "haenko.near", "mob.near", "web3hedge.near", "whendacha.near", "masterofcode.near", "kiskesis.near", "vadim.near", "lolson.near", "dk_51.near", "odins_eyehole.near", "igboze_builder.near", "rileytran.near", "derymars.near"]
