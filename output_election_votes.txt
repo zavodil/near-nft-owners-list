@@ -1,3 +1,4 @@
+yamadori.near|2023-09-19 23:09:19.626245+00|SUCCESS_VALUE|1|["luciotato.near", "davletuner.near", "cameron.near", "p3ter.near", "dleer.near", "tiffany.near", "salikc9.near", "chloe.near", "mob.near", "rileytran.near", "woben.near", "alan777.near", "vadim.near", "web3hedge.near", "bearmans.near"]
 7acd4ed7c6befdaddec4f97133155fd7e7b71ef31529b63b9679425e222f14f8|2023-09-19 22:05:32.874494+00|SUCCESS_VALUE|3|["ramgor.near"]
 7acd4ed7c6befdaddec4f97133155fd7e7b71ef31529b63b9679425e222f14f8|2023-09-19 22:04:37.443654+00|SUCCESS_VALUE|2|["jloc.near"]
 7acd4ed7c6befdaddec4f97133155fd7e7b71ef31529b63b9679425e222f14f8|2023-09-19 22:01:20.871028+00|SUCCESS_VALUE|1|["fritzwagner.near"]
