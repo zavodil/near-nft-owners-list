@@ -1,3 +1,5 @@
+f18cdf5943951c9be8c08c55e3e816453a5730fb7e84354e31d909ad79801d44|2023-09-19 10:02:09.716961+00|SUCCESS_VALUE|2|["techdir.near", "evangel.near", "iamanansari.near", "rubycop.near", "as.near", "ahsas.near", "frol.near"]
+f18cdf5943951c9be8c08c55e3e816453a5730fb7e84354e31d909ad79801d44|2023-09-19 09:56:30.743338+00|SUCCESS_VALUE|1|["cameron.near", "odins_eyehole.near", "auroracfo.near", "rexux.near", "denbite.near", "mob.near", "davletuner.near", "vlad.near", "lolson.near", "dk_51.near", "maxkott.near", "haenko.near", "kiskesis.near", "vadim.near", "whendacha.near"]
 shreyas.near|2023-09-19 09:31:40.027778+00|SUCCESS_VALUE|2|["jlw.near", "keyokey.near", "yesn.near", "chefsale.near", "kwhyc.near", "frol.near", "blaze.near"]
 eeedo.near|2023-09-19 09:10:23.067007+00|SUCCESS_VALUE|1|["derymars.near", "vadim.near", "vlad.near", "mob.near", "woben.near", "alan777.near"]
 eeedo.near|2023-09-19 09:06:08.709095+00|SUCCESS_VALUE|3|["arezhas.near", "escobarindo.near", "rektdegen.near", "alejandro.near", "pironi.near"]
