@@ -1,3 +1,4 @@
+dan_web3.near|2023-09-19 14:08:06.402817+00|SUCCESS_VALUE|3|["cjpd.near"]
 nearux.near|2023-09-19 13:53:24.415883+00|SUCCESS_VALUE|3|["pironi.near", "kriptoraptor.near"]
 nearux.near|2023-09-19 13:51:38.038707+00|SUCCESS_VALUE|1|["woben.near", "mob.near", "cronus.near", "cameron.near", "vadim.near"]
 nearux.near|2023-09-19 13:48:46.749544+00|SUCCESS_VALUE|2|["keyokey.near", "yesn.near", "marieke.near", "mattlock.near", "frol.near", "ilerik.near", "as.near"]
