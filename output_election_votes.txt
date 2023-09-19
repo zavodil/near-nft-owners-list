@@ -1,3 +1,4 @@
+vlad.near|2023-09-19 01:08:11.084867+00|SUCCESS_VALUE|1|["haenko.near", "woben.near", "whendacha.near", "mob.near", "vandal.near", "cameron.near", "vadim.near", "web3hedge.near", "chloe.near", "luciotato.near", "cryptocredit.near", "maxkott.near", "kiskesis.near", "alan777.near", "tiffany.near"]
 vlad.near|2023-09-19 00:31:18.990038+00|SUCCESS_VALUE|2|["kwhyc.near", "mattlock.near", "chefsale.near", "frol.near", "jgold.near", "as.near", "ahsas.near"]
 vlad.near|2023-09-19 00:29:00.516137+00|SUCCESS_VALUE|3|["tolmindev.near", "pironi.near", "alejandro.near", "rektdegen.near", "yourdad.near", "izubair.near", "moska.near"]
 lenardgarcia.near|2023-09-19 00:03:47.395127+00|SUCCESS_VALUE|3|["rahulgoel.near", "izubair.near", "yonota.near", "moska.near", "yourdad.near", "johanga108.near", "escobarindo.near"]
