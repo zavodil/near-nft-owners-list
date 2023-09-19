@@ -1,3 +1,4 @@
+strachu.near|2023-09-19 10:32:41.740416+00|SUCCESS_VALUE|1|["davletuner.near", "kazanderdad.near", "vlad.near", "chloe.near", "luciotato.near", "woben.near"]
 strachu.near|2023-09-19 10:16:32.532764+00|SUCCESS_VALUE|2|["blaze.near", "jlw.near", "rubycop.near", "robert.near", "kwhyc.near", "gagdiez.near"]
 f18cdf5943951c9be8c08c55e3e816453a5730fb7e84354e31d909ad79801d44|2023-09-19 10:10:01.367069+00|SUCCESS_VALUE|3|["yourdad.near", "tolmindev.near", "yonota.near", "johanga108.near", "moska.near", "maks1mk_a.near"]
 f18cdf5943951c9be8c08c55e3e816453a5730fb7e84354e31d909ad79801d44|2023-09-19 10:02:09.716961+00|SUCCESS_VALUE|2|["techdir.near", "evangel.near", "iamanansari.near", "rubycop.near", "as.near", "ahsas.near", "frol.near"]
