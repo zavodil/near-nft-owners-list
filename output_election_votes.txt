@@ -1,3 +1,4 @@
+raili.near|2023-09-19 13:07:28.310942+00|SUCCESS_VALUE|2|["yesn.near", "jlw.near", "marieke.near", "ahsas.near", "keyokey.near", "blaze.near", "kangaroojack.near"]
 54aadceb163771c665394a9861b24532e5b2a20f8f3eaeff4a6743ecd101e042|2023-09-19 12:50:24.107699+00|SUCCESS_VALUE|3|["tolmindev.near", "rahulgoel.near", "johanga108.near", "yourdad.near", "moska.near", "yonota.near", "izubair.near"]
 raili.near|2023-09-19 12:45:32.086033+00|SUCCESS_VALUE|1|["ogruss.near", "sahilmassey.near", "odins_eyehole.near", "rileytran.near", "mob.near", "igboze_builder.near", "whendacha.near", "web3hedge.near", "davidweinstein.near", "salikc9.near", "p3ter.near", "alan777.near", "cameron.near", "luciotato.near", "bearmans.near"]
 54aadceb163771c665394a9861b24532e5b2a20f8f3eaeff4a6743ecd101e042|2023-09-19 12:44:16.553102+00|SUCCESS_VALUE|2|["ahsas.near", "frol.near", "evangel.near", "techdir.near", "iamanansari.near", "as.near", "rubycop.near"]
