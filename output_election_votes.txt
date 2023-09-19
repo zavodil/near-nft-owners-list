@@ -1,3 +1,4 @@
+peaceis.near|2023-09-19 14:13:05.589112+00|SUCCESS_VALUE|3|["izubair.near", "aurorafinance1.near", "vincentcfpun.near", "rahulgoel.near", "pironi.near", "waverlymaven.near", "alejandro.near"]
 dan_web3.near|2023-09-19 14:08:06.402817+00|SUCCESS_VALUE|3|["cjpd.near"]
 nearux.near|2023-09-19 13:53:24.415883+00|SUCCESS_VALUE|3|["pironi.near", "kriptoraptor.near"]
 nearux.near|2023-09-19 13:51:38.038707+00|SUCCESS_VALUE|1|["woben.near", "mob.near", "cronus.near", "cameron.near", "vadim.near"]
