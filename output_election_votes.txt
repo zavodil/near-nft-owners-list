@@ -1,3 +1,6 @@
+nasrul.near|2023-09-19 14:57:02.984303+00|SUCCESS_VALUE|3|["cryptois.near"]
+12d9ce13c14d250643ca00cfa0ea25ae186386affbd153f277c16f7dea95e3d7|2023-09-19 14:56:40.840852+00|SUCCESS_VALUE|2|["frol.near", "rubycop.near", "evangel.near", "iamanansari.near", "as.near", "techdir.near", "ahsas.near"]
+nasrul.near|2023-09-19 14:56:00.060117+00|SUCCESS_VALUE|1|["louisliu.near"]
 12d9ce13c14d250643ca00cfa0ea25ae186386affbd153f277c16f7dea95e3d7|2023-09-19 14:50:34.363119+00|SUCCESS_VALUE|1|["vadim.near", "lolson.near", "auroracfo.near", "mob.near", "rexux.near", "vlad.near", "maxkott.near", "whendacha.near", "haenko.near", "dk_51.near", "davletuner.near", "denbite.near", "odins_eyehole.near", "masterofcode.near", "kiskesis.near"]
 chloe.near|2023-09-19 14:47:42.129999+00|SUCCESS_VALUE|3|["sallymg.near", "jarednotjerry.near", "pironi.near", "cryptois.near", "waverlymaven.near", "williamxx.near", "ntare.near"]
 chloe.near|2023-09-19 14:44:12.71253+00|SUCCESS_VALUE|2|["frol.near", "kwhyc.near", "joespano.near", "jlw.near", "robert.near", "jgold.near", "ahsas.near"]
