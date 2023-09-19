@@ -1,3 +1,4 @@
+fafan.near|2023-09-19 11:10:50.697537+00|SUCCESS_VALUE|3|["alejandro.near", "crans.near", "manutegus.near", "nftmuse.near", "ntare.near", "cjpd.near", "escobarindo.near"]
 fafan.near|2023-09-19 11:04:57.054872+00|SUCCESS_VALUE|2|["jlw.near", "evangel.near", "jloc.near", "bennyblanco.near", "ahsas.near", "achildhoodhero.near", "keyokey.near"]
 yasik.near|2023-09-19 11:03:17.617972+00|SUCCESS_VALUE|1|["masterofcode.near", "whendacha.near", "vadim.near", "kiskesis.near", "haenko.near", "maxkott.near", "dk_51.near", "lolson.near", "vlad.near", "davletuner.near", "mob.near", "denbite.near", "rexux.near", "auroracfo.near"]
 sebtec.near|2023-09-19 11:00:52.038389+00|SUCCESS_VALUE|3|["tolmindev.near", "izubair.near", "maks1mk_a.near", "yonota.near", "johanga108.near", "moska.near", "yourdad.near"]
