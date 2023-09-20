@@ -1,3 +1,6 @@
+ceballos.near|2023-09-20 22:59:50.207937+00|SUCCESS_VALUE|1|["fritzwagner.near"]
+claudiap55.near|2023-09-20 22:58:43.689133+00|SUCCESS_VALUE|2|["vianftbrasil.near", "izcc.near", "marieke.near", "as.near", "mattlock.near", "harveys.near", "jloc.near"]
+claudiap55.near|2023-09-20 22:56:59.9714+00|SUCCESS_VALUE|1|["luciotato.near", "fritzwagner.near", "cryptocredit.near", "whendacha.near", "alan777.near", "frado.near"]
 zarah.near|2023-09-20 22:36:33.361248+00|SUCCESS_VALUE|3|["cryptois.near", "dabbie3229.near", "johanga108.near", "rahulgoel.near", "yourdad.near", "blessedchidi.near", "jarednotjerry.near"]
 mohaa.near|2023-09-20 22:30:15.64285+00|SUCCESS_VALUE|3|["alejandro.near", "mohaa.near", "kriptoraptor.near", "crans.near", "yourdad.near", "vikash.near", "yashank.near"]
 mohaa.near|2023-09-20 22:24:27.926217+00|SUCCESS_VALUE|2|["as.near", "blaze.near", "mattlock.near", "marieke.near", "bennyblanco.near", "evangel.near", "ilerik.near"]
