@@ -1,3 +1,6 @@
+manzanilla.near|2023-09-20 18:56:13.317738+00|SUCCESS_VALUE|2|["as.near", "jloc.near", "harveys.near"]
+manzanilla.near|2023-09-20 18:53:47.598814+00|SUCCESS_VALUE|1|["fritzwagner.near", "kemo.near"]
+maickool.near|2023-09-20 18:53:22.05871+00|SUCCESS_VALUE|3|["rahulgoel.near", "vikash.near", "kriptoraptor.near", "ramgor.near", "andersonr.near", "larkim.near", "blessedchidi.near"]
 maickool.near|2023-09-20 18:48:54.949829+00|SUCCESS_VALUE|2|["harveys.near", "jloc.near", "marieke.near", "izcc.near", "mattlock.near"]
 mcoburn.near|2023-09-20 18:47:16.049567+00|SUCCESS_VALUE|3|["cryptois.near"]
 mcoburn.near|2023-09-20 18:46:14.467154+00|SUCCESS_VALUE|2|["marieke.near", "yesn.near"]
