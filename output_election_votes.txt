@@ -1,3 +1,5 @@
+rjtarun.near|2023-09-21 04:43:36.827249+00|SUCCESS_VALUE|2|["ndcplug.near"]
+rjtarun.near|2023-09-21 04:39:01.034333+00|SUCCESS_VALUE|1|["sahilmassey.near", "frado.near", "vandal.near"]
 mido4bs.near|2023-09-21 04:05:53.186818+00|SUCCESS_VALUE|3|["nftmuse.near", "crans.near", "williamxx.near", "larkim.near", "mohaa.near", "abdulkareem.near", "manutegus.near"]
 mido4bs.near|2023-09-21 04:02:11.545517+00|SUCCESS_VALUE|2|["jgold.near", "marieke.near", "ndcplug.near", "harveys.near", "kwhyc.near", "reespect.near", "antmarshall360.near"]
 mido4bs.near|2023-09-21 03:56:38.846055+00|SUCCESS_VALUE|1|["monish016.near", "berynteoh.near", "wizzow.near", "vandal.near", "guaschingmachines.near", "frado.near", "achoski.near", "kelsontoh.near", "bearmans.near", "sahilmassey.near", "eschnoeckel.near", "ntrucchinh.near", "ugxnear.near", "salikc9.near", "earnestetim.near"]
