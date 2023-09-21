@@ -1,3 +1,4 @@
+aurorafinance1.near|2023-09-21 12:10:56.57187+00|SUCCESS_VALUE|3|["izubair.near", "vincentcfpun.near", "waverlymaven.near", "cjpd.near", "alejandro.near", "yonota.near", "aurorafinance1.near"]
 kiskesis.near|2023-09-21 11:55:07.062132+00|SUCCESS_VALUE|3|["moska.near", "yonota.near", "izubair.near", "johanga108.near", "rahulgoel.near", "tolmindev.near", "yourdad.near"]
 kiskesis.near|2023-09-21 11:51:01.919235+00|SUCCESS_VALUE|1|["rexux.near", "denbite.near", "davletuner.near", "dk_51.near", "kiskesis.near", "whendacha.near", "vadim.near", "haenko.near", "web3hedge.near", "masterofcode.near", "lolson.near", "auroracfo.near", "mob.near", "maxkott.near", "alan777.near"]
 fmilosheski.near|2023-09-21 11:22:25.746624+00|SUCCESS_VALUE|1|["luciotato.near", "haenko.near", "vadim.near", "whendacha.near", "vlad.near", "p3ter.near", "davidweinstein.near", "cameron.near", "dk_51.near", "kazanderdad.near", "web3hedge.near", "vandal.near", "rileytran.near"]
