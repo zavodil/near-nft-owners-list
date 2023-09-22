@@ -1,3 +1,4 @@
+windturne.near|2023-09-22 09:39:55.191098+00|SUCCESS_VALUE|1|["fritzwagner.near", "rileytran.near", "tiffany.near", "vadim.near", "vlad.near", "cameron.near", "mob.near", "web3hedge.near", "haenko.near", "kelsontoh.near", "vandal.near", "dleer.near"]
 sysh.near|2023-09-22 09:34:26.352264+00|SUCCESS_VALUE|3|["jarednotjerry.near", "williamxx.near", "yourdad.near", "alejandro.near", "rektdegen.near", "crans.near", "johanga108.near"]
 sysh.near|2023-09-22 09:31:42.651032+00|SUCCESS_VALUE|2|["ndcplug.near", "joespano.near", "jgold.near", "mattlock.near", "frol.near", "kwhyc.near", "as.near"]
 bigtinker.near|2023-09-22 09:28:34.537018+00|SUCCESS_VALUE|3|["crans.near", "rektdegen.near", "yourdad.near", "alejandro.near", "escobarindo.near", "pironi.near", "jarednotjerry.near"]
