@@ -103,9 +103,9 @@ for (let i = 0; i < Object.keys(chains).length; i++) {
     }
 }
 
-console.log({
+console.log(JSON.stringify({
     timestamp: new Date().toLocaleString(),
-    data: JSON.stringify(res)
-});
+    data: res
+}));
 
 
