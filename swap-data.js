@@ -62,12 +62,12 @@ for (let i = 0; i < Object.keys(chains).length; i++) {
         const coingeckoTokenIds = dexes[dexName]?.["coingecko_token_ids"] ?? {};
 
         for (let n = 0; n < assets.length; n++) {
-            let assetId = assets[n];
+            let assetId = assets[n].toLowerCase();
             if (!loadedAssets.includes(assetId)) {
                 let networkId
                 if (Object.keys(coingeckoTokenIds).includes(assetId)) {
                     networkId = ETHEREUM_NETWORK_ID;
-                    assetId = coingeckoTokenIds[assetId];
+                    assetId = coingeckoTokenIds[assetId].toLowerCase();
                 } else {
                     networkId = DEFAULT_NETWORK_ID;
                 }
