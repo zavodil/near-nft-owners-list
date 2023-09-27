@@ -104,7 +104,7 @@ for (let i = 0; i < Object.keys(chains).length; i++) {
 }
 
 console.log(JSON.stringify({
-    timestamp: new Date().toLocaleString(),
+    timestamp: Date.now(),
     data: res
 }));
 
