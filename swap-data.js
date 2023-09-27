@@ -4,7 +4,7 @@ import * as cg from "coingecko-api-v3";
 const DEFAULT_NETWORK_ID = "mantle";
 const CONTRACT_ID = "social.near";
 const ETHEREUM_NETWORK_ID = "ethereum";
-const FETCH_TIMEOUT = 1000;
+const FETCH_TIMEOUT = 7000;
 
 async function connect() {
     const config = {
