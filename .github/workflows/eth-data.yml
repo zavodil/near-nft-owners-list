@@ -2,7 +2,7 @@ name: Eth Data Updater
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '0 12 * * *'
 
 jobs:
   updateStats:
